@@ -9,7 +9,7 @@ I'm currently proceeding alphabetically through the countries with constitutions
 ## Index
 
 * [Afghanistan](https://github.com/joshleitzel/constitutions/blob/master/afghanistan/afghanistan.md)
-* Albania
+* [Albania](https://github.com/joshleitzel/constitutions/blob/master/albania/albania.md)
 * Algeria
 * Andorra
 * Angola
