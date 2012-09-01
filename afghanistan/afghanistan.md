@@ -252,27 +252,27 @@ nation, shall exert my efforts towards the prosperity and progress of the people
 ### Article Sixty-Four
 The President shall have the following authorities and duties:
 
-  1. Supervise the implementation of the Constitution;
-  2. Determine the fundamental lines of the policy of the country with the approval of the National Assembly;
-  3. Being the Commander in Chief of the armed forces of Afghanistan;
-  4. Declare war and peace with the endorsement of the National Assembly;
-  5. Take necessary decisions to defend territorial integrity and preserve independence;
-  6. Dispatch armed forces units outside of Afghanistan with the endorsement of the National Assembly;
-  7. Convene the Loya Jirga except in the situation prescribed in Article 69 of this Constitution;
-  8. Proclaim as well as terminate the state of emergency with the endorsement of the National Assembly;
-  9. Inaugurate the sessions of National Assembly and Loya Jirga.
-  10. Accept the resignations of vice-presidents of the Republic;
-  11. Appoint the Ministers, the Attorney General, the Head of the Central Bank, the National Security Director as well as the Head of the Red Cross with the endorsement of the House of People, and their dismissal and acceptance of resignation;
-  12. Appoint the Justice of the Supreme Court as well as justices of the Supreme Court with the endorsement of the House of People;
-  13. Appointing, retiring and accepting the resignation and dismissal of judges, officers of the armed forces, police, national security as well as high ranking officials according to the provisions of law;
-  14. Appoint heads of political representatives of Afghanistan to foreign states as well as international organizations;
-  15. Accept credentials of foreign political representatives in Afghanistan;
-  16. Endorse laws as well as judicial decrees;
-  17. Issue credential letter for conclusion of international treaties in accordance with the provisions of the law;
-  18. Reduce and pardon penalties in accordance with the provisions of the law;
-  19. Bestow medals, insignias as well as honorary titles in accordance with the provisions of the law;
-  20. Establish commissions to improve the administration of the country in accordance with the provisions of the law;
-  21. Perform other authorities and duties enshrined in this Constitution.
+1. Supervise the implementation of the Constitution;
+2. Determine the fundamental lines of the policy of the country with the approval of the National Assembly;
+3. Being the Commander in Chief of the armed forces of Afghanistan;
+4. Declare war and peace with the endorsement of the National Assembly;
+5. Take necessary decisions to defend territorial integrity and preserve independence;
+6. Dispatch armed forces units outside of Afghanistan with the endorsement of the National Assembly;
+7. Convene the Loya Jirga except in the situation prescribed in Article 69 of this Constitution;
+8. Proclaim as well as terminate the state of emergency with the endorsement of the National Assembly;
+9. Inaugurate the sessions of National Assembly and Loya Jirga.
+10. Accept the resignations of vice-presidents of the Republic;
+11. Appoint the Ministers, the Attorney General, the Head of the Central Bank, the National Security Director as well as the Head of the Red Cross with the endorsement of the House of People, and their dismissal and acceptance of resignation;
+12. Appoint the Justice of the Supreme Court as well as justices of the Supreme Court with the endorsement of the House of People;
+13. Appointing, retiring and accepting the resignation and dismissal of judges, officers of the armed forces, police, national security as well as high ranking officials according to the provisions of law;
+14. Appoint heads of political representatives of Afghanistan to foreign states as well as international organizations;
+15. Accept credentials of foreign political representatives in Afghanistan;
+16. Endorse laws as well as judicial decrees;
+17. Issue credential letter for conclusion of international treaties in accordance with the provisions of the law;
+18. Reduce and pardon penalties in accordance with the provisions of the law;
+19. Bestow medals, insignias as well as honorary titles in accordance with the provisions of the law;
+20. Establish commissions to improve the administration of the country in accordance with the provisions of the law;
+21. Perform other authorities and duties enshrined in this Constitution.
 
 ### Article Sixty-Five
 On important national, political, social as well as economic issues the President can call for a referendum of the people of Afghanistan. The referendum shall not be contrary to the   provisions of this Constitution or require its amendment.
@@ -309,10 +309,10 @@ The Government shall be comprised of Ministers who work under the chairmanship o
 ### Article Seventy-Two
 The individual appointed as Minister shall have the following qualifications:
 
-  1. Shall have only the citizenship of Afghanistan; if the ministerial candidate has the citizenship of another country as well, the House of People shall have the right to approve or reject the nomination;
-  2. Shall have higher education, work experience as well as a good reputation;
-  3. Shall not be less than thirty five years of age;
-  4. Shall not have been convicted of crimes against humanity, a criminal act or deprivation of civil rights by a court.
+1. Shall have only the citizenship of Afghanistan; if the ministerial candidate has the citizenship of another country as well, the House of People shall have the right to approve or reject the nomination;
+2. Shall have higher education, work experience as well as a good reputation;
+3. Shall not be less than thirty five years of age;
+4. Shall not have been convicted of crimes against humanity, a criminal act or deprivation of civil rights by a court.
 
 ### Article Seventy-Three
 The Ministers shall be appointed from amongst members of the National Assembly or outside. If a member of the National Assembly is appointed as Minister, that individual loses membership in the National Assembly and instead, another individual shall be appointed in accordance with the provisions of the law.
@@ -325,13 +325,13 @@ Before assuming office, the Ministers shall take the following oath in the prese
 ### Article Seventy-Five
 The Government shall have the following duties:
 
-  1. Execute the provisions of this Constitution, other laws, as well as the final decisions of the courts;
-  2. Preserve the independence, defend the territorial integrity and safeguard the interests and prestige of Afghanistan in the international community;
-  3. Maintain public law and order and eliminate every kind of administrative corruption;
-  4. Prepare the budget, regulate financial conditions of the state as well as protect public wealth;
-  5. Devise and implement social, cultural, economic and technological development programs;
-  6. Report to the National Assembly, at the end of the fiscal year, about the tasks achieved as well as important programs for the new fiscal year;
-  7. Perform other duties that, in accordance with this Constitution and other laws, fall within the Government responsibilities.
+1. Execute the provisions of this Constitution, other laws, as well as the final decisions of the courts;
+2. Preserve the independence, defend the territorial integrity and safeguard the interests and prestige of Afghanistan in the international community;
+3. Maintain public law and order and eliminate every kind of administrative corruption;
+4. Prepare the budget, regulate financial conditions of the state as well as protect public wealth;
+5. Devise and implement social, cultural, economic and technological development programs;
+6. Report to the National Assembly, at the end of the fiscal year, about the tasks achieved as well as important programs for the new fiscal year;
+7. Perform other duties that, in accordance with this Constitution and other laws, fall within the Government responsibilities.
 
 ### Article Seventy-Six
 To implement the fundamental lines of the policy of the country and regulate its duties, the government shall devise as well as approve regulations, which shall not be contrary to the body or spirit of any law.
@@ -363,18 +363,18 @@ The number of the members of the House of People shall be proportionate to the p
 ### Article Eighty-Four
 Members of the House of Elders shall be elected and appointed as follows:
 
-  1. From amongst each provincial council members, one individual shall be elected by the respective council for a four year term;
-  2. From amongst district councils of each province, one individual, elected by the respective councils, for a three year term;
-  3. The remaining one third of the members shall be appointed by the President, for a five year term, from amongst experts and experienced personalities, including two members from amongst the impaired and handicapped, as well as two from nomads.
+1. From amongst each provincial council members, one individual shall be elected by the respective council for a four year term;
+2. From amongst district councils of each province, one individual, elected by the respective councils, for a three year term;
+3. The remaining one third of the members shall be appointed by the President, for a five year term, from amongst experts and experienced personalities, including two members from amongst the impaired and handicapped, as well as two from nomads.
 
 The President shall appoint fifty percent of these individuals from amongst women. The individual selected as a member of the House of Elders shall lose membership to the related Council, and, another individual shall be appointed in accordance with the provisions of the law.
 
 ### Article Eighty-Five
 The individual who becomes a candidate or appointed to the membership of the National Assembly, in addition to the completion of the conditions of the election, shall have the following qualifications:
 
-  1. Shall be a citizen of Afghanistan or shall have obtained citizenship of the state of Afghanistan at least ten years prior to candidacy date or appointment;
-  2. Shall not have been convicted of crimes against humanity, as well as a crime or deprivation from civil rights by a court;
-  3. Shall have completed twenty-five years of age on candidacy day for the House of People, and thirty-five years on candidacy day or appointment for the House of Elders.
+1. Shall be a citizen of Afghanistan or shall have obtained citizenship of the state of Afghanistan at least ten years prior to candidacy date or appointment;
+2. Shall not have been convicted of crimes against humanity, as well as a crime or deprivation from civil rights by a court;
+3. Shall have completed twenty-five years of age on candidacy day for the House of People, and thirty-five years on candidacy day or appointment for the House of Elders.
 
 ### Article Eighty-Six
 Elections credentials of members of the National Assembly shall be reviewed by the Independent Elections Commission in accordance with the provisions of the law.
@@ -393,19 +393,19 @@ The House of People shall have the authority to establish a special commission, 
 ### Article Ninety
 The National Assembly shall have the following duties:
 
-  1. Ratification, modification or abrogation of laws or legislative decrees;
-  2. Approval of social, cultural, economic as well as technological development programs;
-  3. Approval of the state budget as well as permission to obtain or grant loans;
-  4. Creation, modification and or abrogation of administrative units;
-  5. Ratification of international treaties and agreements, or abrogation of membership of Afghanistan in them;
-  6. Other authorities enshrined in this Constitution.
+1. Ratification, modification or abrogation of laws or legislative decrees;
+2. Approval of social, cultural, economic as well as technological development programs;
+3. Approval of the state budget as well as permission to obtain or grant loans;
+4. Creation, modification and or abrogation of administrative units;
+5. Ratification of international treaties and agreements, or abrogation of membership of Afghanistan in them;
+6. Other authorities enshrined in this Constitution.
 
 ### Article Ninety-One
 The House of People shall have the following special authorities:
 
-  1. Decide about elucidation session from each Minister in accordance with Article Ninety-Two of this Constitution;
-  2. Decide on the development programs as well as the state budget;
-  3. Approve or reject appointments according to provisions of this Constitution.
+1. Decide about elucidation session from each Minister in accordance with Article Ninety-Two of this Constitution;
+2. Decide on the development programs as well as the state budget;
+3. Approve or reject appointments according to provisions of this Constitution.
 
 ### Article Ninety-Two
 The House of People, on the proposal of twenty percent of all its members, shall make inquiries from each Minister. If the explanations given are not satisfactory, the House of People shall consider the issue of a no-confidence vote. The no-confidence vote on a Minister shall be explicit, direct, as well as based on convincing reasons. The vote shall be approved by the majority of all members of the House of People.
@@ -478,17 +478,17 @@ Proposals for amending elections law shall not be included in the work agenda of
 ### Article One Hundred Ten
 The Loya Jirga is the highest manifestation of the will of the people of Afghanistan. The Loya Jirga consists of:
 
-  1. Members of the National Assembly;
-  2. Presidents of the provincial as well as district assemblies.
+1. Members of the National Assembly;
+2. Presidents of the provincial as well as district assemblies.
 
 Ministers, Chief Justice and members of the Supreme Court as well as the attorney general shall participate in the Loya Jirga sessions without voting rights.
 
 ### Article One Hundred Eleven
 The Loya Jirga shall convene in the following situations:
 
-  1. To decide on issues related to independence, national sovereignty, territorial integrity as well as supreme national interests;
-  2. Amend provisions of this Constitution;
-  3. Impeach the President in accordance with the provisions of Article Sixty Nine of the Constitution.
+1. To decide on issues related to independence, national sovereignty, territorial integrity as well as supreme national interests;
+2. Amend provisions of this Constitution;
+3. Impeach the President in accordance with the provisions of Article Sixty Nine of the Constitution.
 
 ### Article One Hundred Twelve
 In its first session, the Loya Jirga shall elect, from amongst its members, a Chairperson, a Deputy-Chair, and a Secretary and an Assistant Secretary.
@@ -517,12 +517,12 @@ The President shall appoint one of its members as Chief Justice of the Supreme C
 ### Article One Hundred Eighteen
 Supreme Court members shall have the following qualifications:
 
-  1. At time of appointment the age of the Chief Justice of the Supreme Court and its members shall not be less than forty year.
-  2. Shall be a citizen of Afghanistan.
-  3. Shall have higher education in legal studies or Islamic jurisprudence as well as expertise and adequate experience in the judicial system of Afghanistan.
-  4. Shall have good character as well as good reputation.
-  5. Shall not have been convicted, by a court, for crimes against humanity, crimes, or deprivation of civil rights.
-  6. Shall not be a member of any political party during his term of duty.
+1. At time of appointment the age of the Chief Justice of the Supreme Court and its members shall not be less than forty year.
+2. Shall be a citizen of Afghanistan.
+3. Shall have higher education in legal studies or Islamic jurisprudence as well as expertise and adequate experience in the judicial system of Afghanistan.
+4. Shall have good character as well as good reputation.
+5. Shall not have been convicted, by a court, for crimes against humanity, crimes, or deprivation of civil rights.
+6. Shall not be a member of any political party during his term of duty.
 
 ### Article One Hundred Nineteen
 Members of the Supreme Court shall take the following oath of office in the presence of the President:
@@ -611,10 +611,10 @@ During the state of emergency, the President can, in consultation with the presi
 ### Article One Hundred Forty-Five
 During the state of emergency, the President can, after approval by the presidents of the National Assembly as well as the Chief Justice of the Supreme Court, suspend the enforcement of the following provisions or place restrictions on them:
 
-  1. Clause Two of Article Twenty-Seven;
-  2. Article Thirty-Six;
-  3. Clause Two of Article Thirty-Seven;
-  4. Clause Two of Article Thirty-Eight.
+1. Clause Two of Article Twenty-Seven;
+2. Article Thirty-Six;
+3. Clause Two of Article Thirty-Seven;
+4. Clause Two of Article Thirty-Eight.
 
 ### Article One Hundred Forty-Six
 The Constitution shall not be amended during the state of emergency.
@@ -663,11 +663,11 @@ The interim period between the adoption of the Constitution and the inauguration
 
 The Islamic Transitional Government of Afghanistan, during the transitional period, shall perform the following duties:
 
-  1. Issuing legislative decrees related to elections of the President, National Assembly as well as local councils within six months;
-  2. Issuing decrees regarding the organization and authority of courts as well as the commencement of work on fundamental organizations law in less than one year;
-  3. Establishing the Independent Elections Commission;
-  4. Completing necessary reforms to better regulate executive as well as judicial affairs;
-  5. Adopting necessary measures to prepare the ground for implementing provisions of the Constitution.
+1. Issuing legislative decrees related to elections of the President, National Assembly as well as local councils within six months;
+2. Issuing decrees regarding the organization and authority of courts as well as the commencement of work on fundamental organizations law in less than one year;
+3. Establishing the Independent Elections Commission;
+4. Completing necessary reforms to better regulate executive as well as judicial affairs;
+5. Adopting necessary measures to prepare the ground for implementing provisions of the Constitution.
 
 ### Article One Hundred Sixty
 The first President-Elect shall, according to provisions of this Constitution, commence work thirty days after election results are declared. Multilateral efforts shall be made to hold presidential as well as National Assembly elections concurrently and simultaneously. Pending the establishment of the National Assembly, its powers, enshrined in this Constitution, shall be submitted to the government, and the interim Supreme Court shall be established by presidential decree.
