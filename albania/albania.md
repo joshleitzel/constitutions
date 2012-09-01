@@ -4,6 +4,8 @@
 
 [Source: [United Nations Public Administration Network](http://unpan1.un.org/intradoc/groups/public/documents/untc/unpan013810.pdf)]
 
+*(Editorial note: This is a translation of the original [Albanian text](http://www.km.gov.al/skedaret/1231927767-Kushtetuta%20e%20Republikes%20se%20Shqiperise.pdf). The text of this document has been preserved from the linked source, with only minor formatting changes.)*
+
 ---
 
 We, the people of Albania, proud and aware of our history, with responsibility for the future, and with faith in God and/or other universal values, with determination to build a social and democratic state based on the rule of law, and to guarantee the fundamental human rights and freedoms, with a spirit of tolerance and religious coexistence, with the pledge for the protection of human dignity and personhood, as well as for the prosperity of the whole nation, for peace, well-being, culture and social solidarity, with the centuries-old aspiration of the Albanian people for national identity and unity, with a deep conviction that justice, peace, harmony and cooperation among nations are among the highest values of humanity, We establish this Constitution:
