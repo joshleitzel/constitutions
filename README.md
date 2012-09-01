@@ -130,7 +130,7 @@ I'm currently proceeding alphabetically through the countries with constitutions
 * Turkey
 * Turkmenistan
 * Ukraine
-* [United States of America](https://github.com/joshleitzel/constitutions/tree/master/usa)
+* [United States of America](https://github.com/joshleitzel/constitutions/blob/master/usa/united_states_of_america.md)
 * Uruguay
 * Vanuatu
 * Vatican City
