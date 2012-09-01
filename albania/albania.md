@@ -482,7 +482,7 @@ Before beginning the exercise of the mandate, the deputies take the oath in the 
 #### Article 83
 1. A draft law is voted on three times: in principle, article by article, and in its entirety.
 2. The Assembly may, at the request of the Council of Ministers or one-fifth of all the deputies, review and approve a draft law with an expedited procedure, but not sooner than one week from the beginning of the procedure of review.
-3. The expedited procedure is not permitted for the review of the draft laws contemplated in Article 81, paragraph 2, with the exception of subparagraph “f.“
+3. The expedited procedure is not permitted for the review of the draft laws contemplated in Article 81, paragraph 2, with the exception of subparagraph “f.”
 
 #### Article 84
 1. President of the Republic promulgates the approved law within 20 days from its presentation.
@@ -513,7 +513,7 @@ Before beginning the exercise of the mandate, the deputies take the oath in the 
 #### Article 88
 1. The President of the Republic is in every case elected for 5 years, with the right of reelection only once.
 2. The procedure for the election of the President begins no later than 30 days before the end of the previous presidential mandate.
-3. The President begins his duties after he takes the oath before the Assembly, but not before the mandate of the President who is leaving has been completed. The President swears as follows: “I swear that I will obey to the Constitution and laws of the country, that I will respect the rights and freedoms of citizens, protect the independence of the Republic, and I will serve the general interest and the progress of the Albanian People.“ The President may add: “So help me God!“
+3. The President begins his duties after he takes the oath before the Assembly, but not before the mandate of the President who is leaving has been completed. The President swears as follows: “I swear that I will obey to the Constitution and laws of the country, that I will respect the rights and freedoms of citizens, protect the independence of the Republic, and I will serve the general interest and the progress of the Albanian People.” The President may add: “So help me God!”
 4. A President who resigns before the end of his mandate may not be a candidate in the presidential election that takes place after his resignation.
 
 #### Article 89
@@ -1091,7 +1091,7 @@ When the Assembly cannot be convened during the state of war, the President of t
 2. The Council of Ministers presents to the Assembly draft laws necessary for implementing this Constitution.
 
 ### Article 179
-1. The mandate of the existing constitutional organs with the entering into force of this Constitution ends pursuant to the terms contemplated by Law No. 7491, dated 29.4.1991, “On the Main Constitutional Provisions“ and its respective amendments.
+1. The mandate of the existing constitutional organs with the entering into force of this Constitution ends pursuant to the terms contemplated by Law No. 7491, dated 29.4.1991, “On the Main Constitutional Provisions” and its respective amendments.
 2. The members of the Court of Cassation continue their activity as members of the High Court pursuant to their previous mandate.
 3. The members of the High Council of Justice elected from the ranks of the prosecutors are replaced with new members elected by a general meeting of the judges.
 4. The organs of local government continue their activity until their mandate terminates.
@@ -1105,7 +1105,7 @@ When the Assembly cannot be convened during the state of war, the President of t
 2. Laws and other normative acts, adopted before the date this Constitution enters into force, that relate to the expropriations and confiscations shall be applied when they do not contradict it.
 
 ### Article 182
-Law No. 7491, dated 29.4. 1991, “On the Main Constitutional Provisions“ as well as the other constitutional laws are abrogated the day this Constitution enters into force.
+Law No. 7491, dated 29.4. 1991, “On the Main Constitutional Provisions” as well as the other constitutional laws are abrogated the day this Constitution enters into force.
 
 ### Article 183
 This Constitution enters into force with its promulgation by the President of the Republic.
