@@ -3,7 +3,7 @@
 
 [Source: [Afghan Embassy of Poland](http://www.afghanembassy.com.pl/cms/uploads/images/Constitution/The%20Constitution.pdf)]
 
-*(Editorial note: The text of this document has been preserved from the linked source. Only obvious typos have been corrected.)*
+*(Editorial note: This is a translation of the original [Pashto/Dari text](http://www.afghan-web.com/politics/currentconstitutiondaripashto.pdf). The text of this document has been preserved from the linked source. Only obvious typos have been corrected.)*
 
 ---
 
