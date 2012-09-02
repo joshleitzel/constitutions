@@ -2,16 +2,18 @@ This is a repository of world constitutions in Markdown format.
 
 ## Goals
 
-Initially the plan is to provide English-language copies of the constitutions that are actively in use today. Eventually, I want to provide original (untranslated) versions of all the text, which is often difficult to find in an easily convertible format. It might also be interesting to eventually include constitutions that are no longer in use, non-national constitutions (e.g., the constitutions of the various states of the U.S.), and related non-constitutional documents (e.g., the U.N. Charter on Human Rights, the U.S. Federalist Papers).
+The goal of this project is to provide a central repository of world constitutions in a common format (Markdown), which can be easily converted into other formats such as XML and PDF. I am currently working my way through the constitutions alphabetically; initially I want to provide quality versions of the texts from reputable (ideally official, e.g. national gazettes) sources. Eventually I plan to include all the constitutions in both their original language (which is often difficult to find online in a convenient format) and in translation to English.
 
-I'm currently proceeding alphabetically through the countries with constitutions currently in use (list below). If you want to help, do so and make a pull request!
+It might also be interesting to eventually include constitutions that are no longer in use, non-national constitutions (e.g., the constitutions of the various states of the U.S.), and related non-constitutional documents (e.g., the U.N. Charter on Human Rights, the U.S. Federalist Papers).
+
+Pull requests will be entertained!
 
 ## Index
 
-* [Afghanistan](https://github.com/joshleitzel/constitutions/blob/master/afghanistan/afghanistan.md)
-* [Albania](https://github.com/joshleitzel/constitutions/blob/master/albania/albania.md)
-* [Algeria](https://github.com/joshleitzel/constitutions/blob/master/algeria/algeria.md)
-* Andorra
+* Afghanistan: [English](https://github.com/joshleitzel/constitutions/blob/master/afghanistan/afghanistan.md)
+* Albania: [English](https://github.com/joshleitzel/constitutions/blob/master/albania/albania.md)
+* Algeria: [English](https://github.com/joshleitzel/constitutions/blob/master/algeria/algeria.md)
+* Andorra: [Catalan (original)](https://github.com/joshleitzel/constitutions/blob/master/andorra/andorra.ca.md)
 * Angola
 * Argentina
 * Armenia
