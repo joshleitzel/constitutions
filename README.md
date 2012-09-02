@@ -10,9 +10,9 @@ Pull requests will be entertained!
 
 ## Index
 
-* Afghanistan: [English](https://github.com/joshleitzel/constitutions/blob/master/afghanistan/afghanistan.md)
-* Albania: [English](https://github.com/joshleitzel/constitutions/blob/master/albania/albania.md)
-* Algeria: [English](https://github.com/joshleitzel/constitutions/blob/master/algeria/algeria.md)
+* Afghanistan: [English](https://github.com/joshleitzel/constitutions/blob/master/afghanistan/afghanistan.en.md)
+* Albania: [English](https://github.com/joshleitzel/constitutions/blob/master/albania/albania.en.md)
+* Algeria: [English](https://github.com/joshleitzel/constitutions/blob/master/algeria/algeria.en.md)
 * Andorra: [Catalan (original)](https://github.com/joshleitzel/constitutions/blob/master/andorra/andorra.ca.md)
 * Angola
 * Argentina
