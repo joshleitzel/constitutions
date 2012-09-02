@@ -10,7 +10,7 @@ I'm currently proceeding alphabetically through the countries with constitutions
 
 * [Afghanistan](https://github.com/joshleitzel/constitutions/blob/master/afghanistan/afghanistan.md)
 * [Albania](https://github.com/joshleitzel/constitutions/blob/master/albania/albania.md)
-* Algeria
+* [Algeria](https://github.com/joshleitzel/constitutions/blob/master/algeria/algeria.md)
 * Andorra
 * Angola
 * Argentina
