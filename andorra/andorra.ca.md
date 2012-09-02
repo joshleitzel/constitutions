@@ -60,7 +60,7 @@ La Declaració Universal dels Drets Humans és vigent a Andorra.
 ### Capítol III. Dels drets fonamentals de la persona i de les llibertats públiques
 #### Article 8
 1. La Constitució reconeix el dret a la vida i la protegeix plenament en les seves diferents fases.
-2. Tota persona té dret a la integritat física i moral. Ningú no pot ésser sotmès Constitució del Principat d’Andorra 448 Butlletí Oficial del Principat d’Andorra Núm. 24 - any 5 - 4.5.1993a tortures o a penes i tractes cruels, inhumans o degradants.
+2. Tota persona té dret a la integritat física i moral. Ningú no pot ésser sotmès a tortures o a penes i tractes cruels, inhumans o degradants.
 3. Es prohibeix la pena de mort.
 
 #### Article 9
@@ -115,7 +115,7 @@ Els treballadors i els empresaris tenen dret a la defensa dels seus interessos e
 2. Els nacionals i els estrangers legalment residents tenen dret a fixar lliurement la seva residència dins Andorra.
 
 #### Article 22
-La no renovació de la condició de resident o l’expulsió de la persona legalment resident només es podrà acordar per les causes i segons els termes previstos en la llei, en virtut de resolució judicial ferma, Núm. 24 - any 5 - 4.5.1993 Butlletí Oficial del Principat d’Andorra 449si la persona interessada exerceix el dret a la jurisdicció.
+La no renovació de la condició de resident o l’expulsió de la persona legalment resident només es podrà acordar per les causes i segons els termes previstos en la llei, en virtut de resolució judicial ferma, si la persona interessada exerceix el dret a la jurisdicció.
 
 #### Article 23
 Tothom amb interès directe té dret a dirigir peticions als poders públics en la forma i amb els efectes previstos per la llei.
@@ -183,7 +183,7 @@ La regulació de l’exercici dels drets reconeguts en aquest Títol només es p
 2. La llei crearà un procediment excepcional d’empara davant el Tribunal Constitucional contra els actes dels poders públics que violin el contingut essencial dels drets esmentats en l’apartat anterior, llevat el supòsit previst a l’article 22.
 
 #### Article 42
-1. Una Llei Qualificada regularà els estats d’alarma i d’emergència. El primer podrà ser declarat pel Govern en casos de catàstrofes naturals, per un termini de quinze dies i amb notificació al Consell General. El segon també serà declarat pel Govern per un termini de trenta dies en els supòsits d’interrupció del funciona- 450 Butlletí Oficial del Principat d’Andorra Núm. 24 - any 5 - 4.5.1993ment normal de la convivència democrà- tica i requerirà l’autorització prèvia del Consell General. Tota pròrroga d’aquests estats requereix necessàriament l’aprovació del Consell General.
+1. Una Llei Qualificada regularà els estats d’alarma i d’emergència. El primer podrà ser declarat pel Govern en casos de catàstrofes naturals, per un termini de quinze dies i amb notificació al Consell General. El segon també serà declarat pel Govern per un termini de trenta dies en els supòsits d’interrupció del funcionament normal de la convivència democrà- tica i requerirà l’autorització prèvia del Consell General. Tota pròrroga d’aquests estats requereix necessàriament l’aprovació del Consell General.
 2. Durant l’estat d’alarma es pot limitar l’exercici dels drets reconeguts en els articles 21 i 27. Durant l’estat d’emergència poden ésser suspesos els drets recollits en els articles 9.2, 12, 15, 16, 19 i 21.  L’aplicació d’aquesta suspensió als drets continguts en els articles 9.2 i 15 s’ha de dur a terme sempre sota control judicial i sense perjudici del procediment de protecció establert a l’article 9.3.
 
 ## Títol III: Dels Coprínceps
@@ -298,7 +298,7 @@ El Consell General aprova i modifica el seu Reglament per majoria absoluta de la
 3. Els projectes i les proposicions de llei han d’ésser examinats pel Ple i per les comissions en la forma que determini el Reglament.
 
 #### Article 59
-Mitjançant llei, el Consell General pot delegar l’exercici de la funció legislativa al Govern, la qual en cap cas podrà ésser subdelegada. La llei de delegació determina la matèria delegada, els principis i les directrius sota els quals haurà de regir-se el corresponent decret legislatiu del Govern, així com el termini dintre del qual haurà d’ésser exercida. L’autoritza- 452 Butlletí Oficial del Principat d’Andorra Núm. 24 - any 5 - 4.5.1993ció preveurà les formes parlamentàries de control de la legislació delegada.
+Mitjançant llei, el Consell General pot delegar l’exercici de la funció legislativa al Govern, la qual en cap cas podrà ésser subdelegada. La llei de delegació determina la matèria delegada, els principis i les directrius sota els quals haurà de regir-se el corresponent decret legislatiu del Govern, així com el termini dintre del qual haurà d’ésser exercida. L’autorització preveurà les formes parlamentàries de control de la legislació delegada.
 
 #### Article 60
 1. En casos d’extrema urgència i necessitat, el Govern podrà presentar al Consell General un text articulat perquè sigui aprovat com a llei, en una votació de totalitat, en el termini de quaranta-vuit hores.
@@ -316,8 +316,9 @@ Mitjançant llei, el Consell General pot delegar l’exercici de la funció legi
 2. El Govern podrà sol.licitar que no es debatin aquelles esmenes que comportin increment de despeses o disminució d’ingressos en relació amb els previstos a la Llei del Pressupost General. El Consell General, per majoria absoluta de la Cambra, podrà oposar-se a aquella sol.licitud amb una moció motivada.
 
 #### Article 63
-Aprovada una llei pel Consell General, el Síndic General en donarà compte als Coprínceps perquè, entre els vuit i quinze dies següents, la sancionin, promulguin i n’ordenin la publicació en el Butlletí Oficial del Principat d’Andorra.  Capítol III. Dels tractats internacionals
+Aprovada una llei pel Consell General, el Síndic General en donarà compte als Coprínceps perquè, entre els vuit i quinze dies següents, la sancionin, promulguin i n’ordenin la publicació en el Butlletí Oficial del Principat d’Andorra.
 
+### Capítol III. Dels tractats internacionals
 #### Article 64
 1. Els tractats internacionals han d’ésser aprovats pel Consell General per majoria absoluta de la Cambra en els casos següents:
 
@@ -359,7 +360,7 @@ Els Coprínceps són informats dels altres projectes de tractats i d’acords in
 
 #### Article 69
 1. El Govern respon políticament davant del Consell General de manera solidària.
-2. Una cinquena part dels Consellers poden presentar una moció de censura, Núm. 24 - any 5 - 4.5.1993 Butlletí Oficial del Principat d’Andorra 453per mitjà d’un escrit motivat, contra el Cap de Govern.
+2. Una cinquena part dels Consellers poden presentar una moció de censura, per mitjà d’un escrit motivat, contra el Cap de Govern.
 3. Un cop fet el debat entre els tres i cinc dies posteriors a la presentació de la moció i en la forma que determini el Reglament, es procedirà a una votació pública i oral. Perquè la moció de censura prosperi, caldrà el vot favorable de la majoria absoluta del Consell General.
 4. Si la moció de censura és aprovada, el Cap de Govern cessa. Tot seguit es procedirà segons el que preveu l’article anterior.
 5. No es pot presentar cap moció de censura abans que hagin transcorregut sis mesos des de la darrera elecció del Cap de Govern.
