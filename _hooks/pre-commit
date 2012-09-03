@@ -1,0 +1,23 @@
+#!/usr/bin/env ruby
+# vim: set syntax=ruby
+
+changed_files = `git diff --cached --name-only --diff-filter=ACM`.split("\n")
+changed_files.each do |file|
+  components = file.split('/')
+  filename = components.last
+  markdown_match = filename =~ /.md$/
+  unless markdown_match.nil?
+    puts "Change detected in #{file}..."
+    
+    dir = components.first
+    base_name = filename[0..markdown_match - 1]
+
+    # create pdf version of the markdown
+    pdf_path = "#{dir}/#{base_name}.pdf"
+    puts "Generating #{pdf_path}..."
+    `pandoc -o #{pdf_path} #{file}`
+    `git add #{pdf_path}`
+  end
+end
+
+exit 0
