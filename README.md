@@ -1,4 +1,4 @@
-This is a repository of world constitutions in Markdown format, with auto-generated PDF versions as well..
+This is a repository of world constitutions in Markdown format, with auto-generated PDF versions as well.
 
 ## Goals
 
@@ -7,6 +7,9 @@ The goal of this project is to provide a central repository of world constitutio
 It might also be interesting to eventually include constitutions that are no longer in use, non-national constitutions (e.g., the constitutions of the various states of the U.S.), and related non-constitutional documents (e.g., the U.N. Charter on Human Rights, the U.S. Federalist Papers).
 
 Pull requests will be entertained!
+
+## Contributing
+If you would like to help this project along, just: (1) fork the repo; (2) run `rake` from inside the project directory (to set up the hook symlink; note that you need to have [Pandoc](http://johnmacfarlane.net/pandoc/README.html) and Ruby installed on your system); (3) submit a pull request.
 
 ## Index
 (Note: The PDF links will immediately begin a download and are not viewable in-browser.)
