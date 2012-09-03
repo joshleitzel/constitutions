@@ -1,4 +1,4 @@
-This is a repository of world constitutions in Markdown format.
+This is a repository of world constitutions in Markdown format, with auto-generated PDF versions as well..
 
 ## Goals
 
@@ -10,11 +10,16 @@ Pull requests will be entertained!
 
 ## Index
 
-* Afghanistan: [English](https://github.com/joshleitzel/constitutions/blob/master/afghanistan/afghanistan.en.md)
-* Albania: [English](https://github.com/joshleitzel/constitutions/blob/master/albania/albania.en.md)
-* Algeria: [English](https://github.com/joshleitzel/constitutions/blob/master/algeria/algeria.en.md)
-* Andorra: [Catalan (original)](https://github.com/joshleitzel/constitutions/blob/master/andorra/andorra.ca.md)
-* Angola: [Portuguese (original)](https://github.com/joshleitzel/constitutions/blob/master/angola/angola.pt.md)
+* Afghanistan
+  * English: [Markdown](https://github.com/joshleitzel/constitutions/blob/master/afghanistan/afghanistan.en.md); [PDF](https://github.com/joshleitzel/constitutions/blob/master/afghanistan/afghanistan.en.pdf?raw=true)
+* Albania
+  * English: [Markdown](https://github.com/joshleitzel/constitutions/blob/master/albania/albania.en.md); [PDF](https://github.com/joshleitzel/constitutions/blob/master/albania/albania.en.pdf?raw=true)
+* Algeria
+  * English: [Markdown](https://github.com/joshleitzel/constitutions/blob/master/algeria/algeria.en.md); [PDF](https://github.com/joshleitzel/constitutions/blob/master/algeria/algeria.en.pdf?raw=true)
+* Andorra
+  * Catalan (original): [Markdown](https://github.com/joshleitzel/constitutions/blob/master/andorra/andorra.en.md); [PDF](https://github.com/joshleitzel/constitutions/blob/master/andorra/andorra.en.pdf?raw=true)
+* Angola
+  * Portuguese (original): [Markdown](https://github.com/joshleitzel/constitutions/blob/master/angola/angola.en.md); [PDF](https://github.com/joshleitzel/constitutions/blob/master/angola/angola.en.pdf?raw=true)
 * Argentina
 * Armenia
 * Australia
