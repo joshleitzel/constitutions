@@ -9,6 +9,7 @@ It might also be interesting to eventually include constitutions that are no lon
 Pull requests will be entertained!
 
 ## Index
+(Note: The PDF links will immediately begin a download and are not viewable in-browser.)
 
 * Afghanistan
   * English: [Markdown](https://github.com/joshleitzel/constitutions/blob/master/afghanistan/afghanistan.en.md); [PDF](https://github.com/joshleitzel/constitutions/blob/master/afghanistan/afghanistan.en.pdf?raw=true)
@@ -17,9 +18,9 @@ Pull requests will be entertained!
 * Algeria
   * English: [Markdown](https://github.com/joshleitzel/constitutions/blob/master/algeria/algeria.en.md); [PDF](https://github.com/joshleitzel/constitutions/blob/master/algeria/algeria.en.pdf?raw=true)
 * Andorra
-  * Catalan (original): [Markdown](https://github.com/joshleitzel/constitutions/blob/master/andorra/andorra.en.md); [PDF](https://github.com/joshleitzel/constitutions/blob/master/andorra/andorra.en.pdf?raw=true)
+  * Catalan (original): [Markdown](https://github.com/joshleitzel/constitutions/blob/master/andorra/andorra.ca.md); [PDF](https://github.com/joshleitzel/constitutions/blob/master/andorra/andorra.ca.pdf?raw=true)
 * Angola
-  * Portuguese (original): [Markdown](https://github.com/joshleitzel/constitutions/blob/master/angola/angola.en.md); [PDF](https://github.com/joshleitzel/constitutions/blob/master/angola/angola.en.pdf?raw=true)
+  * Portuguese (original): [Markdown](https://github.com/joshleitzel/constitutions/blob/master/angola/angola.pt.md); [PDF](https://github.com/joshleitzel/constitutions/blob/master/angola/angola.pt.pdf?raw=true)
 * Argentina
 * Armenia
 * Australia
@@ -137,7 +138,8 @@ Pull requests will be entertained!
 * Turkey
 * Turkmenistan
 * Ukraine
-* [United States of America](https://github.com/joshleitzel/constitutions/blob/master/usa/united_states_of_america.md)
+* United States of America
+  * English (original): [Markdown](https://github.com/joshleitzel/constitutions/blob/master/united_states_of_america/united_states_of_america.en.md); [PDF](https://github.com/joshleitzel/constitutions/blob/master/united_states_of_america/united_states_of_america.en.pdf?raw=true)
 * Uruguay
 * Vanuatu
 * Vatican City
