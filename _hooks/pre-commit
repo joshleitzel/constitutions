@@ -15,7 +15,7 @@ changed_files.each do |file|
     # create pdf version of the markdown
     pdf_path = "#{dir}/#{base_name}.pdf"
     puts "Generating #{pdf_path}..."
-    `pandoc -o #{pdf_path} #{file}`
+    `pandoc --latex-engine=xelatex -o #{pdf_path} #{file}`
     `git add #{pdf_path}`
   end
 end
