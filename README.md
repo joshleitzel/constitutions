@@ -139,7 +139,7 @@ Pull requests will be entertained!
 * Turkmenistan
 * Ukraine
 * United States of America
-  * English (original): [Markdown](https://github.com/joshleitzel/constitutions/blob/master/united_states_of_america/united_states_of_america.en.md); [PDF](https://github.com/joshleitzel/constitutions/blob/master/united_states_of_america/united_states_of_america.en.pdf?raw=true)
+  * English (original): [Markdown](https://github.com/joshleitzel/constitutions/blob/master/usa/united_states_of_america.en.md); [PDF](https://github.com/joshleitzel/constitutions/blob/master/usa/united_states_of_america.en.pdf?raw=true)
 * Uruguay
 * Vanuatu
 * Vatican City
