@@ -15,7 +15,6 @@ Pull requests will be entertained!
 * Algeria: [English](https://github.com/joshleitzel/constitutions/blob/master/algeria/algeria.en.md)
 * Andorra: [Catalan (original)](https://github.com/joshleitzel/constitutions/blob/master/andorra/andorra.ca.md)
 * Angola: [Portuguese (original)](https://github.com/joshleitzel/constitutions/blob/master/angola/angola.pt.md)
-* Angola
 * Argentina
 * Armenia
 * Australia
