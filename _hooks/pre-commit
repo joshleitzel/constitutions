@@ -4,6 +4,12 @@
 changed_files = `git diff --cached --name-only --diff-filter=ACM`.split("\n")
 changed_files.each do |file|
   components = file.split('/')
+
+  if components.count < 2
+    # we don't want anything at the root level
+    next
+  end
+
   filename = components.last
   markdown_match = filename =~ /.md$/
   unless markdown_match.nil?
