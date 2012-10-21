@@ -6,19 +6,6 @@
 
 ---
 
-Ley Nº 24.430
-
-Ordénase la publicación del texto oficial de la Constitución Nacional (sancionada en 1853 con las reformas de los años 1860, 1866, 1898, 1957 y 1994).
-
-Sancionada: Diciembre 15 de 1994.
-
-Promulgada: Enero 3 de 1995.
-
-El Senado y Cámara de Diputados de la Nación Argentina reunidos en Congreso, etc. sancionan con fuerza de Ley:
-
-#### Artículo 1º
-Ordénase la publicación del texto oficial de la Constitución Nacional (sancionada en 1853 con las reformas de los años 1860, 1866, 1898, 1957 y 1994) que es el que se transcribe a continuación:
-
 ## Preámbulo
 Nos los representantes del pueblo de la Nación Argentina, reunidos en Congreso General Constituyente por voluntad y elección de las provincias que la componen, en cumplimiento de pactos preexistentes, con el objeto de constituir la unión nacional, afianzar la justicia, consolidar la paz interior, proveer a la defensa común, promover el bienestar general, y asegurar los beneficios de la libertad, para nosotros, para nuestra posteridad, y para todos los hombres del mundo que quieran habitar en el suelo argentino: invocando la protección de Dios, fuente de toda razón y justicia: ordenamos, decretamos y establecemos esta Constitución, para la Nación Argentina.
 
@@ -203,128 +190,107 @@ Toda persona podrá interponer esta acción para tomar conocimiento de los datos
 
 Cuando el derecho lesionado, restringido, alterado o amenazado fuera la libertad física, o en caso de agravamiento ilegítimo en la forma o condiciones de detención, o en el de desaparición forzada de personas, la acción de hábeas corpus podrá ser interpuesta por el afectado o por cualquiera en su favor y el juez resolverá de inmediato, aun durante la vigencia del estado de sitio.
 
-SEGUNDA PARTE
-
-AUTORIDADES DE LA NACION
-
-TITULO PRIMERO
-
-GOBIERNO FEDERAL
-
-SECCION PRIMERA
-
-DEL PODER LEGISLATIVO
-
-#### Artículo 44
+## Segunda Parte: Autoridades de la Nación
+### Título Primero: Gobierno Federal
+#### Sección Primera: Del Poder Legislativo
+##### Artículo 44
 Un Congreso compuesto de dos Cámaras, una de Diputados de la Nación y otra de Senadores de las provincias y de la ciudad de Buenos Aires, será investido del Poder Legislativo de la Nación.
 
-CAPÍTULO PRIMERO
-
-De la Cámara de Diputados
-
-#### Artículo 45
+##### Capítulo Primero: De la Cámara de Diputados
+###### Artículo 45
 La Cámara de Diputados se compondrá de representantes elegidos directamente por el pueblo de las provincias, de la ciudad de Buenos Aires, y de la Capital en caso de traslado, que se consideran a este fin como distritos electorales de un solo Estado y a simple pluralidad de sufragios. El número de representantes será de uno por cada treinta y tres mil habitantes o fracción que no baje de dieciséis mil quinientos. Después de la realización de cada censo, el Congreso fijará la representación con arreglo al mismo, pudiendo aumentar pero no disminuir la base expresada para cada diputado.
 
-#### Artículo 46
+###### Artículo 46
 Los diputados para la primera Legislatura se nombrarán en la proporción siguiente: por la provincia de Buenos Aires doce: por la de Córdoba seis: por la de Catamarca tres: por la de Corrientes cuatro: por la de Entre Ríos dos: por la de Jujuy dos: por la de Mendoza tres: por la de La Rioja dos: por la de Salta tres: por la de Santiago cuatro: por la de San Juan dos: por la de Santa Fe dos: por la de San Luis dos: y por la de Tucumán tres.
 
-#### Artículo 47
+###### Artículo 47
 Para la segunda Legislatura deberá realizarse el censo general, y arreglarse a él el número de diputados; pero este censo sólo podrá renovarse cada diez años.
 
-#### Artículo 48
+###### Artículo 48
 Para ser diputado se requiere haber cumplido la edad de veinticinco años, tener cuatro años de ciudadanía en ejercicio, y ser natural de la provincia que lo elija, o con dos años de residencia inmediata en ella.
 
-#### Artículo 49
+###### Artículo 49
 Por esta vez las Legislaturas de las provincias reglarán los medios de hacer efectiva la elección directa de los diputados de la Nación: para lo sucesivo el Congreso expedirá una ley general.
 
-#### Artículo 50
+###### Artículo 50
 Los diputados durarán en su representación por cuatro años, y son reelegibles; pero la Sala se renovará por mitad cada bienio; a cuyo efecto los nombrados para la primera Legislatura, luego que se reúnan, sortearán los que deban salir en el primer período.
 
-#### Artículo 51
+###### Artículo 51
 En caso de vacante, el Gobierno de provincia, o de la Capital, hace proceder a elección legal de un nuevo miembro.
 
-#### Artículo 52
+###### Artículo 52
 A la Cámara de Diputados corresponde exclusivamente la iniciativa de las leyes sobre contribuciones y reclutamiento de tropas.
 
-#### Artículo 53
+###### Artículo 53
 Sólo ella ejerce el derecho de acusar ante el Senado al presidente, vicepresidente, al jefe de gabinete de ministros, a los ministros y a los miembros de la Corte Suprema, en las causas de responsabilidad que se intenten contra ellos, por mal desempeño o por delito en el ejercicio de sus funciones; o por crímenes comunes, después de haber conocido de ellos y declarado haber lugar a la formación de causa por la mayoría de dos terceras partes de sus miembros presentes.
 
-CAPÍTULO SEGUNDO
-
-Del Senado
-
-#### Artículo 54
+##### Capítulo Segundo: Del Senado
+###### Artículo 54
 El Senado se compondrá de tres senadores por cada provincia y tres por la ciudad de Buenos Aires, elegidos en forma directa y conjunta, correspondiendo dos bancas al partido político que obtenga el mayor número de votos, y la restante al partido político que le siga en número de votos. Cada senador tendrá un voto.
 
-#### Artículo 55
+###### Artículo 55
 Son requisitos para ser elegido senador: tener la edad de treinta años, haber sido seis años ciudadano de la Nación, disfrutar de una renta anual de dos mil pesos fuertes o de una entrada equivalente, y ser natural de la provincia que lo elija, o con dos años de residencia inmediata en ella.
 
-#### Artículo 56
+###### Artículo 56
 Los senadores duran seis años en el ejercicio de su mandato, y son reelegibles indefinidamente; pero el Senado se renovará a razón de una tercera parte de los distritos electorales cada dos años.
 
-#### Artículo 57
+###### Artículo 57
 El vicepresidente de la Nación será presidente del Senado; pero no tendrá voto sino en el caso que haya empate en la votación.
 
-#### Artículo 58
+###### Artículo 58
 El Senado nombrará un presidente provisorio que lo presida en caso de ausencia del vicepresidente, o cuando éste ejerce las funciones de presidente de la Nación.
 
-#### Artículo 59
+###### Artículo 59
 Al Senado corresponde juzgar en juicio público a los acusados por la Cámara de Diputados, debiendo sus miembros prestar juramento para este acto. Cuando el acusado sea el presidente de la Nación, el Senado será presidido por el presidente de la Corte Suprema. Ninguno será declarado culpable sino a mayoría de los dos tercios de los miembros presentes.
 
-#### Artículo 60
+###### Artículo 60
 Su fallo no tendrá más efecto que destituir al acusado, y aun declararle incapaz de ocupar ningún empleo de honor, de confianza o a sueldo en la Nación. Pero la parte condenada quedará, no obstante, sujeta a acusación, juicio y castigo conforme a las leyes ante los tribunales ordinarios.
 
-#### Artículo 61
+###### Artículo 61
 Corresponde también al Senado autorizar al presidente de la Nación para que declare en estado de sitio, uno o varios puntos de la República en caso de ataque exterior.
 
-#### Artículo 62
+###### Artículo 62
 Cuando vacase alguna plaza de senador por muerte, renuncia u otra causa, el Gobierno a que corresponda la vacante hace proceder inmediatamente a la elección de un nuevo miembro.
 
-CAPITULO TERCERO
-
-Disposiciones comunes a ambas Cámaras
-
-#### Artículo 63
+##### Capítulo Tercero: Disposiciones comunes a ambas Cámaras
+###### Artículo 63
 Ambas Cámaras se reunirán por sí mismas en sesiones ordinarias todos los años desde el primero de marzo hasta el treinta de noviembre. Pueden también ser convocadas extraordinariamente por el Presidente de la Nación o prorrogadas sus sesiones.
 
-#### Artículo 64
+###### Artículo 64
 Cada Cámara es juez de las elecciones, derechos y títulos de sus miembros en cuanto a su validez. Ninguna de ellas entrará en sesión sin la mayoría absoluta de sus miembros; pero un número menor podrá compeler a los miembros ausentes a que concurran a las sesiones, en los términos y bajo las penas que cada Cámara establecerá.
 
-#### Artículo 65
+###### Artículo 65
 Ambas Cámaras empiezan y concluyen sus sesiones simultáneamente. Ninguna de ellas, mientras se hallen reunidas, podrá suspender sus sesiones más de tres días, sin el consentimiento de la otra.
 
-#### Artículo 66
+###### Artículo 66
 Cada Cámara hará su reglamento y podrá con dos tercios de votos, corregir a cualquiera de sus miembros por desorden de conducta en el ejercicio de sus funciones, o removerlo por inhabilidad física o moral sobreviniente a su incorporación, y hasta excluirle de su seno; pero bastará la mayoría de uno sobre la mitad de los presentes para decidir en las renuncias que voluntariamente hicieren de sus cargos.
 
-#### Artículo 67
+###### Artículo 67
 Los senadores y diputados prestarán, en el acto de su incorporación, juramento de desempeñar debidamente el cargo, y de obrar en todo en conformidad a lo que prescribe esta Constitución.
 
-#### Artículo 68
+###### Artículo 68
 Ninguno de los miembros del Congreso puede ser acusado, interrogado judicialmente, ni molestado por las opiniones o discursos que emita desempeñando su mandato de legislador.
 
-#### Artículo 69
+###### Artículo 69
 Ningún senador o diputado, desde el día de su elección hasta el de su cese, puede ser arrestado; excepto el caso de ser sorprendido in fraganti en la ejecución de algún crimen que merezca pena de muerte, infamante, u otra aflictiva; de lo que se dará cuenta a la Cámara respectiva con la información sumaria del hecho.
 
-#### Artículo 70
+###### Artículo 70
 Cuando se forme querella por escrito ante las justicias ordinarias contra cualquier senador o diputado, examinado el mérito del sumario en juicio público, podrá cada Cámara, con dos tercios de votos, suspender en sus funciones al acusado, y ponerlo a disposición del juez competente para su juzgamiento.
 
-#### Artículo 71
+###### Artículo 71
 Cada una de las Cámaras puede hacer venir a su sala a los ministros del Poder Ejecutivo para recibir las explicaciones e informes que estime convenientes.
 
-#### Artículo 72
+###### Artículo 72
 Ningún miembro del Congreso podrá recibir empleo o comisión del Poder Ejecutivo, sin previo consentimiento de la Cámara respectiva, excepto los empleos de escala.
 
-#### Artículo 73
+###### Artículo 73
 Los eclesiásticos regulares no pueden ser miembros del Congreso, ni los gobernadores de provincia por la de su mando.
 
-#### Artículo 74
+###### Artículo 74
 Los servicios de los senadores y diputados son remunerados por el Tesoro de la Nación, con una dotación que señalará la ley.
 
-CAPITULO CUARTO
-
-Atribuciones del Congreso
-
-#### Artículo 75
+##### Capítulo Cuarto: Atribuciones del Congreso
+###### Artículo 75
 Corresponde al Congreso:
 
 1. Legislar en materia aduanera. Establecer los derechos de importación y exportación, los cuales, así como las avaluaciones sobre las que recaigan, serán uniformes en toda la Nación.
@@ -421,46 +387,40 @@ Aprobar o revocar la intervención decretada, durante su receso, por el Poder Ej
 
 32. Hacer todas las leyes y reglamentos que sean convenientes para poner en ejercicio los poderes antecedentes, y todos los otros concedidos por la presente Constitución al Gobierno de la Nación Argentina.
 
-#### Artículo 76
+###### Artículo 76
 Se prohíbe la delegación legislativa en el Poder Ejecutivo, salvo en materias determinadas de administración o de emergencia pública, con plazo fijado para su ejercicio y dentro de las bases de la delegación que el Congreso establezca.
 
 La caducidad resultante del transcurso del plazo previsto en el párrafo anterior no importará revisión de las relaciones jurídicas nacidas al amparo de las normas dictadas en consecuencia de la delegación legislativa.
 
-CAPÍTULO QUINTO
-
-De la formación y sanción de las leyes
-
-#### Artículo 77
+##### Capítulo Quinto: De la formación y sanción de las leyes
+###### Artículo 77
 Las leyes pueden tener principio en cualquiera de las Cámaras del Congreso, por proyectos presentados por sus miembros o por el Poder Ejecutivo, salvo las excepciones que establece esta Constitución.
 
 Los proyectos de ley que modifiquen el régimen electoral y de partidos políticos deberán ser aprobados por mayoría absoluta del total de los miembros de las Cámaras.
 
-#### Artículo 78
+###### Artículo 78
 Aprobado un proyecto de ley por la Cámara de su origen, pasa para su discusión a la otra Cámara. Aprobado por ambas, pasa al Poder Ejecutivo de la Nación para su examen; y si también obtiene su aprobación, lo promulga como ley.
 
-#### Artículo 79
+###### Artículo 79
 Cada Cámara, luego de aprobar un proyecto de ley en general, puede delegar en sus comisiones la aprobación en particular del proyecto, con el voto de la mayoría absoluta del total de sus miembros. La Cámara podrá, con igual número de votos, dejar sin efecto la delegación y retomar el trámite ordinario. La aprobación en comisión requerirá el voto de la mayoría absoluta del total de sus miembros. Una vez aprobado el proyecto en comisión, se seguirá el trámite ordinario.
 
-#### Artículo 80
+###### Artículo 80
 Se reputa aprobado por el Poder Ejecutivo todo proyecto no devuelto en el término de diez días útiles. Los proyectos desechados parcialmente no podrán ser aprobados en la parte restante. Sin embargo, las partes no observadas solamente podrán ser promulgadas si tienen autonomía normativa y su aprobación parcial no altera el espíritu ni la unidad del proyecto sancionado por el Congreso. En este caso será de aplicación el procedimiento previsto para los decretos de necesidad y urgencia.
 
-#### Artículo 81
+###### Artículo 81
 Ningún proyecto de ley desechado totalmente por una de las Cámaras podrá repetirse en las sesiones de aquel año. Ninguna de las Cámaras puede desechar totalmente un proyecto que hubiera tenido origen en ella y luego hubiese sido adicionado o enmendado por la Cámara revisora. Si el proyecto fuere objeto de adiciones o correcciones por la Cámara revisora, deberá indicarse el resultado de la votación a fin de establecer si tales adiciones o correcciones fueron realizadas por mayoría absoluta de los presentes o por las dos terceras partes de los presentes. La Cámara de origen podrá por mayoría absoluta de los presentes aprobar el proyecto con las adiciones o correcciones introducidas o insistir en la redacción originaria, a menos que las adiciones o correcciones las haya realizado la revisora por dos terceras partes de los presentes. En este último caso, el proyecto pasará al Poder Ejecutivo con las adiciones o correcciones de la Cámara revisora, salvo que la Cámara de origen insista en su redacción originaria con el voto de las dos terceras partes de los presentes. La Cámara de origen no podrá introducir nuevas adiciones o correcciones a las realizadas por la Cámara revisora.
 
-#### Artículo 82
+###### Artículo 82
 La voluntad de cada Cámara debe manifestarse expresamente; se excluye, en todos los casos, la sanción tácita o ficta.
 
-#### Artículo 83
+###### Artículo 83
 Desechado en el todo o en parte un proyecto por el Poder Ejecutivo, vuelve con sus objeciones a la Cámara de su origen: ésta lo discute de nuevo, y si lo confirma por mayoría de dos tercios de votos, pasa otra vez a la Cámara de revisión. Si ambas Cámaras lo sancionan por igual mayoría, el proyecto es ley y pasa al Poder Ejecutivo para su promulgación. Las votaciones de ambas Cámaras serán en este caso nominales, por si o por no; y tanto los nombres y fundamentos de los sufragantes, como las objeciones del Poder Ejecutivo, se publicarán inmediatamente por la prensa. Si las Cámaras difieren sobre las objeciones, el proyecto no podrá repetirse en las sesiones de aquel año.
 
-#### Artículo 84
-En la sanción de las leyes se usará de esta fórmula: El Senado y Cámara de Diputados de la Nación Argentina, reunidos en Congreso, ... decretan o sancionan con fuerza de ley.
+###### Artículo 84
+En la sanción de las leyes se usará de esta fórmula: El Senado y Cámara de Diputados de la Nación Argentina, reunidos en Congreso, … decretan o sancionan con fuerza de ley.
 
-CAPITULO SEXTO
-
-De la Auditoría General de la Nación
-
-#### Artículo 85
+##### Capítulo Sexto: De la Auditoría General de la Nación
+###### Artículo 85
 El control externo del sector público nacional en sus aspectos patrimoniales, económicos, financieros y operativos, será una atribución propia del Poder Legislativo.
 
 El examen y la opinión del Poder Legislativo sobre el desempeño y situación general de la administración pública estarán sustentados en los dictámenes de la Auditoría General de la Nación.
@@ -469,70 +429,55 @@ Este organismo de asistencia técnica del Congreso, con autonomía funcional, se
 
 Tendrá a su cargo el control de legalidad, gestión y auditoría de toda la actividad de la administración pública centralizada y descentralizada, cualquiera fuera su modalidad de organización, y las demás funciones que la ley le otorgue. Intervendrá necesariamente en el trámite de aprobación o rechazo de las cuentas de percepción e inversión de los fondos públicos.
 
-CAPÍTULO SEPTIMO
-
-Del Defensor del Pueblo
-
-#### Artículo 86
+##### Capítulo Septimo: Del Defensor del Pueblo
+###### Artículo 86
 El Defensor del Pueblo es un órgano independiente instituido en el ámbito del Congreso de la Nación, que actuará con plena autonomía funcional, sin recibir instrucciones de ninguna autoridad. Su misión es la defensa y protección de los derechos humanos y demás derechos, garantías e intereses tutelados en esta Constitución y las leyes, ante hechos, actos u omisiones de la Administración; y el control del ejercicio de las funciones administrativas públicas.
 
 El Defensor del Pueblo tiene legitimación procesal. Es designado y removido por el Congreso con el voto de las dos terceras partes de los miembros presentes de cada una de las Cámaras. Goza de las inmunidades y privilegios de los legisladores. Durará en su cargo cinco años, pudiendo ser nuevamente designado por una sola vez.
 
 La organización y el funcionamiento de esta institución serán regulados por una ley especial.
 
-SECCIÓN SEGUNDA
+#### Sección Segunda: Del Poder Ejecutivo
+##### Capítulo Primero: De su naturaleza y duración
+###### Artículo 87
+El Poder Ejecutivo de la Nación será desempeñado por un ciudadano con el título de “Presidente de la Nación Argentina”.
 
-DEL PODER EJECUTIVO
-
-CAPÍTULO PRIMERO
-
-De su naturaleza y duración
-
-#### Artículo 87
-El Poder Ejecutivo de la Nación será desempeñado por un ciudadano con el título de "Presidente de la Nación Argentina".
-
-#### Artículo 88
+###### Artículo 88
 En caso de enfermedad, ausencia de la Capital, muerte, renuncia o destitución del Presidente, el Poder Ejecutivo será ejercido por el vicepresidente de la Nación. En caso de destitución, muerte, dimisión o inhabilidad del Presidente y vicepresidente de la Nación, el Congreso determinará qué funcionario público ha de desempeñar la Presidencia, hasta que haya cesado la causa de la inhabilidad o un nuevo presidente sea electo.
 
-#### Artículo 89
+###### Artículo 89
 Para ser elegido Presidente o vicepresidente de la Nación, se requiere haber nacido en el territorio argentino, o ser hijo de ciudadano nativo, habiendo nacido en país extranjero; y las demás calidades exigidas para ser elegido senador.
 
-#### Artículo 90
+###### Artículo 90
 El Presidente y vicepresidente duran en sus funciones el término de cuatro años y podrán ser reelegidos o sucederse recíprocamente por un solo período consecutivo. Si han sido reelectos o se han sucedido recíprocamente no pueden ser elegidos para ninguno de ambos cargos, sino con el intervalo de un período.
 
-#### Artículo 91
+###### Artículo 91
 El Presidente de la Nación cesa en el poder el mismo día en que expira su período de cuatro años; sin que evento alguno que lo haya interrumpido, pueda ser motivo de que se le complete más tarde.
 
-#### Artículo 92
+###### Artículo 92
 El Presidente y vicepresidente disfrutan de un sueldo pagado por el Tesoro de la Nación, que no podrá ser alterado en el período de sus nombramientos. Durante el mismo período no podrán ejercer otro empleo, ni recibir ningún otro emolumento de la Nación, ni de provincia alguna.
 
-#### Artículo 93
-Al tomar posesión de su cargo el presidente y vicepresidente prestarán juramento, en manos del presidente del Senado y ante el Congreso reunido en Asamblea, respetando sus creencias religiosas, de "desempeñar con lealtad y patriotismo el cargo de Presidente (o vicepresidente) de la Nación y observar y hacer observar fielmente la Constitución de la Nación Argentina".
+###### Artículo 93
+Al tomar posesión de su cargo el presidente y vicepresidente prestarán juramento, en manos del presidente del Senado y ante el Congreso reunido en Asamblea, respetando sus creencias religiosas, de “desempeñar con lealtad y patriotismo el cargo de Presidente (o vicepresidente) de la Nación y observar y hacer observar fielmente la Constitución de la Nación Argentina”.
 
-CAPÍTULO SEGUNDO
-
-De la forma y tiempo de la elección del Presidente y vicepresidente de la Nación
-
-#### Artículo 94
+##### Capítulo Segundo: De la forma y tiempo de la elección del Presidente y vicepresidente de la Nación
+###### Artículo 94
 El Presidente y el vicepresidente de la Nación serán elegidos directamente por el Pueblo, en doble vuelta, según lo establece esta Constitución. A este fin el territorio nacional conformará un distrito único.
 
-#### Artículo 95
+###### Artículo 95
 La lección se efectuará dentro de los dos meses anteriores a la conclusión del mandato del Presidente en ejercicio.
 
-#### Artículo 96
+###### Artículo 96
 La segunda vuelta electoral, si correspondiere, se realizará entre las dos fórmulas de candidatos más votadas, dentro de los treinta días de celebrada la anterior.
 
-#### Artículo 97
+###### Artículo 97
 Cuando la fórmula que resultare más votada en la primera vuelta, hubiere obtenido más del cuarenta y cinco por ciento de los votos afirmativos válidamente emitidos, sus integrantes serán proclamados como Presidente y vicepresidente de la Nación.
 
-#### Artículo 98
+###### Artículo 98
 Cuando la fórmula que resultare más votada en la primera vuelta hubiere obtenido el cuarenta por ciento por lo menos de los votos afirmativos válidamente emitidos y, además, existiere una diferencia mayor de diez puntos porcentuales respecto del total de los votos afirmativos válidamente emitidos sobre la fórmula que le sigue en número de votos, sus integrantes serán proclamados como Presidente y vicepresidente de la Nación.
 
-CAPÍTULO TERCERO
-
-Atribuciones del Poder Ejecutivo
-
-#### Artículo 99
+##### Capítulo Tercero: Atribuciones del Poder Ejecutivo
+###### Artículo 99
 El Presidente de la Nación tiene las siguientes atribuciones:
 
 1. Es el jefe supremo de la Nación, jefe del gobierno y responsable político de la administración general del país.
@@ -585,11 +530,8 @@ Un nuevo nombramiento, precedido de igual acuerdo, será necesario para mantener
 
 20. Decreta la intervención federal a una provincia o a la ciudad de Buenos Aires en caso de receso del Congreso, y debe convocarlo simultáneamente para su tratamiento.
 
-CAPÍTULO CUARTO
-
-Del jefe de gabinete y demás ministros del Poder Ejecutivo
-
-#### Artículo 100
+##### Capítulo Cuarto: Del jefe de gabinete y demás ministros del Poder Ejecutivo
+###### Artículo 100
 El jefe de gabinete de ministros y los demás ministros secretarios cuyo número y competencia será establecida por una ley especial, tendrán a su cargo el despacho de los negocios de la Nación, y refrendarán y legalizarán los actos del presidente por medio de su firma, sin cuyo requisito carecen de eficacia.
 
 Al jefe de gabinete de ministros, con responsabilidad política ante el Congreso de la Nación, le corresponde:
@@ -622,54 +564,48 @@ Al jefe de gabinete de ministros, con responsabilidad política ante el Congreso
 
 El jefe de gabinete de ministros no podrá desempeñar simultáneamente otro ministerio.
 
-#### Artículo 101
+###### Artículo 101
 El jefe de gabinete de ministros debe concurrir al Congreso al menos una vez por mes, alternativamente a cada una de sus Cámaras, para informar de la marcha del gobierno, sin perjuicio de lo dispuesto en el Artículo 71. Puede ser interpelado a los efectos del tratamiento de una moción de censura, por el voto de la mayoría absoluta de la totalidad de los miembros de cualquiera de las Cámaras, y ser removido por el voto de la mayoría absoluta de los miembros de cada una de las Cámaras.
 
-#### Artículo 102
+###### Artículo 102
 Cada ministro es responsable de los actos que legaliza; y solidariamente de los que acuerda con sus colegas.
 
-#### Artículo 103
+###### Artículo 103
 Los ministros no pueden por sí solos, en ningún caso, tomar resoluciones, a excepción de lo concerniente al régimen económico y administrativo de sus respectivos departamentos.
 
-#### Artículo 104
+###### Artículo 104
 Luego que el Congreso abra sus sesiones, deberán los ministros del despacho presentarle una memoria detallada del estado de la Nación en lo relativo a los negocios de sus respectivos departamentos.
 
-#### Artículo 105
+###### Artículo 105
 No pueden ser senadores ni diputados, sin hacer dimisión de sus empleos de ministros.
 
-#### Artículo 106
+###### Artículo 106
 Pueden los ministros concurrir a las sesiones del Congreso y tomar parte en sus debates, pero no votar.
 
-#### Artículo 107
+###### Artículo 107
 Gozarán por sus servicios de un sueldo establecido por la ley, que no podrá ser aumentado ni disminuido en favor o perjuicio de los que se hallen en ejercicio.
 
-SECCIÓN TERCERA
-
-DEL PODER JUDICIAL
-
-CAPÍTULO PRIMERO
-
-De su naturaleza y duración
-
-#### Artículo 108
+#### Sección Tercera: Del poder judicial
+##### Capítulo Primero: De su naturaleza y duración
+###### Artículo 108
 El Poder Judicial de la Nación será ejercido por una Corte Suprema de Justicia, y por los demás tribunales inferiores que el Congreso estableciere en el territorio de la Nación.
 
-#### Artículo 109
+###### Artículo 109
 En ningún caso el presidente de la Nación puede ejercer funciones judiciales, arrogarse el conocimiento de causas pendientes o restablecer las fenecidas.
 
-#### Artículo 110
+###### Artículo 110
 Los jueces de la Corte Suprema y de los tribunales inferiores de la Nación conservarán sus empleos mientras dure su buena conducta, y recibirán por sus servicios una compensación que determinará la ley, y que no podrá ser disminuida en manera alguna, mientras permaneciesen en sus funciones.
 
-#### Artículo 111
+###### Artículo 111
 Ninguno podrá ser miembro de la Corte Suprema de Justicia, sin ser abogado de la Nación con ocho años de ejercicio, y tener las calidades requeridas para ser senador.
 
-#### Artículo 112
+###### Artículo 112
 En la primera instalación de la Corte Suprema, los individuos nombrados prestarán juramento en manos del Presidente de la Nación, de desempeñar sus obligaciones, administrando justicia bien y legalmente, y en conformidad a lo que prescribe la Constitución. En lo sucesivo lo prestarán ante el presidente de la misma Corte.
 
-#### Artículo 113
+###### Artículo 113
 La Corte Suprema dictará su reglamento interior y nombrará a sus empleados.
 
-#### Artículo 114
+###### Artículo 114
 El Consejo de la Magistratura, regulado por una ley especial sancionada por la mayoría absoluta de la totalidad de los miembros de cada Cámara, tendrá a su cargo la selección de los magistrados y la administración del Poder Judicial.
 
 El Consejo será integrado periódicamente de modo que se procure el equilibrio entre la representación de los órganos políticos resultantes de la elección popular, de los jueces de todas las instancias y de los abogados de la matrícula federal. Será integrado, asimismo, por otras personas del ámbito académico y científico, en el número y la forma que indique la ley.
@@ -688,7 +624,7 @@ Serán sus atribuciones:
 
 6. Dictar los reglamentos relacionados con la organización judicial y todos aquellos que sean necesarios para asegurar la independencia de los jueces y la eficaz prestación de los servicios de justicia.
 
-#### Artículo 115
+###### Artículo 115
 Los jueces de los tribunales inferiores de la Nación serán removidos por las causales expresadas en el Artículo 53, por un jurado de enjuiciamiento integrado por legisladores, magistrados y abogados de la matrícula federal.
 
 Su fallo, que será irrecurrible, no tendrá más efecto que destituir al acusado. Pero la parte condenada quedará no obstante sujeta a acusación, juicio y castigo conforme a las leyes ante los tribunales ordinarios.
@@ -697,37 +633,28 @@ Corresponderá archivar las actuaciones y, en su caso, reponer al juez suspendid
 
 En la ley especial a que se refiere el Artículo 114, se determinará la integración y procedimiento de este jurado.
 
-CAPÍTULO SEGUNDO
-
-Atribuciones del Poder Judicial
-
-#### Artículo 116
+##### Capítulo II: Atribuciones del Poder Judicial
+###### Artículo 116
 Corresponde a la Corte Suprema y a los tribunales inferiores de la Nación, el conocimiento y decisión de todas las causas que versen sobre puntos regidos por la Constitución, y por las leyes de la Nación, con la reserva hecha en el inc. 12 del Artículo 75: y por los tratados con las naciones extranjeras: de las causas concernientes a embajadores, ministros públicos y cónsules extranjeros: de las causas de almirantazgo y jurisdicción marítima: de los asuntos en que la Nación sea parte: de las causas que se susciten entre dos o más provincias; entre una provincia y los vecinos de otra; entre los vecinos de diferentes provincias; y entre una provincia o sus vecinos, contra un Estado o ciudadano extranjero.
 
-#### Artículo 117
+###### Artículo 117
 En estos casos la Corte Suprema ejercerá su jurisdicción por apelación según las reglas y excepciones que prescriba el Congreso; pero en todos los asuntos concernientes a embajadores, ministros y cónsules extranjeros, y en los que alguna provincia fuese parte, la ejercerá originaria y exclusivamente.
 
-#### Artículo 118
+###### Artículo 118
 Todos los juicios criminales ordinarios, que no se deriven del derecho de acusación concedido a la Cámara de Diputados se terminarán por jurados, luego que se establezca en la República esta institución. La actuación de estos juicios se hará en la misma provincia donde se hubiere cometido el delito; pero cuando éste se cometa fuera de los límites de la Nación, contra el derecho de gentes, el Congreso determinará por una ley especial el lugar en que haya de seguirse el juicio.
 
-#### Artículo 119
+###### Artículo 119
 La traición contra la Nación consistirá únicamente en tomar las armas contra ella, o en unirse a sus enemigos prestándoles ayuda y socorro. El Congreso fijará por una ley especial la pena de este delito; pero ella no pasará de la persona del delincuente, ni la infamia del reo se transmitirá a sus parientes de cualquier grado.
 
-SECCIÓN CUARTA
-
-Del ministerio público
-
-#### Artículo 120
+#### Sección Cuarta: Del ministerio público
+##### Artículo 120
 El Ministerio Público es un órgano independiente con autonomía funcional y autarquía financiera que tiene por función promover la actuación de la justicia en defensa de la legalidad de los intereses generales de la sociedad en coordinación con las demás autoridades de la República.
 
 Está integrado por un procurador general de la Nación y un defensor general de la Nación y los demás miembros que la ley establezca.
 
 Sus miembros gozan de inmunidades funcionales e intangibilidad de remuneraciones.
 
-TITULO SEGUNDO
-
-GOBIERNOS DE PROVINCIA
-
+### Título Segundo: Gobiernos De Provincia
 #### Artículo 121
 Las provincias conservan todo el poder no delegado por esta Constitución al Gobierno federal, y el que expresamente se hayan reservado por pactos especiales al tiempo de su incorporación.
 
@@ -763,21 +690,24 @@ Una ley garantizará los intereses del Estado nacional mientras la ciudad de Bue
 
 En el marco de lo dispuesto en este artículo, el Congreso de la Nación convocará a los habitantes de la ciudad de Buenos Aires para que, mediante los representantes que elijan a ese efecto, dicten el estatuto organizativo de sus instituciones.
 
-DISPOSICIONES TRANSITORIAS
-
-Primera. La Nación Argentina ratifica su legítima e imprescriptible soberanía sobre las islas Malvinas, Georgias del Sur y Sandwich del Sur y los espacios marítimos e insulares correspondientes, por ser parte integrante del territorio nacional.
+## Disposiciones Transitorias 
+### Primera
+La Nación Argentina ratifica su legítima e imprescriptible soberanía sobre las islas Malvinas, Georgias del Sur y Sandwich del Sur y los espacios marítimos e insulares correspondientes, por ser parte integrante del territorio nacional.
 
 La recuperación de dichos territorios y el ejercicio pleno de la soberanía, respetando el modo de vida de sus habitantes, y conforme a los principios del derecho internacional, constituyen un objetivo permanente e irrenunciable del pueblo argentino.
 
-Segunda. Las acciones positivas a que alude el Artículo 37 en su último párrafo no podrán ser inferiores a las vigentes al tiempo de sancionarse esta Constitución y durarán lo que la ley determine.
+### Segunda
+Las acciones positivas a que alude el Artículo 37 en su último párrafo no podrán ser inferiores a las vigentes al tiempo de sancionarse esta Constitución y durarán lo que la ley determine.
 
 (Corresponde al Artículo 37)
 
-Tercera. La ley que reglamente el ejercicio de la iniciativa popular deberá ser aprobada dentro de los dieciocho meses de esta sanción.
+### Tercera
+La ley que reglamente el ejercicio de la iniciativa popular deberá ser aprobada dentro de los dieciocho meses de esta sanción.
 
 (Corresponde al Artículo 39)
 
-Cuarta. Los actuales integrantes del Senado de la Nación desempeñarán su cargo hasta la extinción del mandato correspondiente a cada uno.
+### Cuarta
+Los actuales integrantes del Senado de la Nación desempeñarán su cargo hasta la extinción del mandato correspondiente a cada uno.
 
 En ocasión de renovarse un tercio del Senado en mil novecientos noventa y cinco, por finalización de los mandatos de todos los senadores elegidos en mil novecientos ochenta y seis, será designado además un tercer senador por distrito por cada Legislatura. El conjunto de los senadores por cada distrito se integrará, en lo posible, de modo que correspondan dos bancas al partido político o alianza electoral que tenga el mayor número de miembros en la legislatura, y la restante al partido político o alianza electoral que le siga en número de miembros de ella. En caso de empate, se hará prevalecer al partido político o alianza electoral que hubiera obtenido mayor cantidad de sufragios en la elección legislativa provincial inmediata anterior.
 
@@ -795,51 +725,62 @@ Los mandatos de los senadores elegidos por aplicación de esta cláusula transit
 
 (Corresponde al Artículo 54)
 
-Quinta. Todos los integrantes del Senado serán elegidos en la forma indicada en el Artículo 54 dentro de los dos meses anteriores al diez de diciembre del dos mil uno, decidiéndose por la suerte, luego que todos se reúnan, quienes deban salir en el primero y segundo bienio.
+### Quinta
+Todos los integrantes del Senado serán elegidos en la forma indicada en el Artículo 54 dentro de los dos meses anteriores al diez de diciembre del dos mil uno, decidiéndose por la suerte, luego que todos se reúnan, quienes deban salir en el primero y segundo bienio.
 
 (Corresponde al Artículo 56)
 
-Sexta. Un régimen de coparticipación conforme lo dispuesto en el inc. 2 del Artículo 75 y la reglamentación del organismo fiscal federal, serán establecidos antes de la finalización del año 1996; la distribución de competencias, servicios y funciones vigentes a la sanción de esta reforma, no podrá modificarse sin la aprobación de la provincia interesada; tampoco podrá modificarse en desmedro de las provincias la distribución de recursos vigente a la sanción de esta reforma y en ambos casos hasta el dictado del mencionado régimen de coparticipación.
+### Sexta
+Un régimen de coparticipación conforme lo dispuesto en el inc. 2 del Artículo 75 y la reglamentación del organismo fiscal federal, serán establecidos antes de la finalización del año 1996; la distribución de competencias, servicios y funciones vigentes a la sanción de esta reforma, no podrá modificarse sin la aprobación de la provincia interesada; tampoco podrá modificarse en desmedro de las provincias la distribución de recursos vigente a la sanción de esta reforma y en ambos casos hasta el dictado del mencionado régimen de coparticipación.
 
 La presente cláusula no afecta los reclamos administrativos o judiciales en trámite originados por diferencias por distribución de competencias, servicios, funciones o recursos entre la Nación y las provincias.
 
 (Corresponde al Artículo 75 inc. 2).
 
-Séptima. El Congreso ejercerá en la ciudad de Buenos Aires mientras sea capital de la Nación las atribuciones legislativas que conserve con arreglo al Artículo 129.
+### Séptima
+El Congreso ejercerá en la ciudad de Buenos Aires mientras sea capital de la Nación las atribuciones legislativas que conserve con arreglo al Artículo 129.
 
 (Corresponde al Artículo 75 inc. 30).
 
-Octava. La legislación delegada preexistente que no contenga plazo establecido para su ejercicio caducará a los cinco años de la vigencia de esta disposición excepto aquella que el Congreso de la Nación ratifique expresamente por una nueva ley.
+### Octava
+La legislación delegada preexistente que no contenga plazo establecido para su ejercicio caducará a los cinco años de la vigencia de esta disposición excepto aquella que el Congreso de la Nación ratifique expresamente por una nueva ley.
 
 (Corresponde al Artículo 76).
 
-Novena. El mandato del presidente en ejercicio al momento de sancionarse esta reforma deberá ser considerado como primer período.
+### Novena
+El mandato del presidente en ejercicio al momento de sancionarse esta reforma deberá ser considerado como primer período.
 
 (Corresponde al Artículo 90)
 
-Décima. El mandato del Presidente de la Nación que asuma su cargo el 8 de julio de 1995 se extinguirá el 10 de diciembre de 1999.
+### Décima
+El mandato del Presidente de la Nación que asuma su cargo el 8 de julio de 1995 se extinguirá el 10 de diciembre de 1999.
 
 (Corresponde al Artículo 90)
 
-Undécimo. La caducidad de los nombramientos y la duración limitada previstas en el Artículo 99 inc. 4 entrarán en vigencia a los cinco años de la sanción de esta reforma constitucional.
+### Undécimo
+La caducidad de los nombramientos y la duración limitada previstas en el Artículo 99 inc. 4 entrarán en vigencia a los cinco años de la sanción de esta reforma constitucional.
 
 (Corresponde al Artículo 99 inc. 4)
 
-Duodécima. Las prescripciones establecidas en los arts. 100 y 101 del capítulo cuarto de la sección segunda de la segunda parte de esta Constitución referidas al jefe de gabinete de ministros, entrarán en vigencia el 8 de julio de 1995.
+### Duodécima
+Las prescripciones establecidas en los arts. 100 y 101 del capítulo cuarto de la sección segunda de la segunda parte de esta Constitución referidas al jefe de gabinete de ministros, entrarán en vigencia el 8 de julio de 1995.
 
 El jefe de gabinete de ministros será designado por primera vez el 8 de julio de 1995 hasta esa fecha sus facultades serán ejercitadas por el Presidente de la República.
 
 (Corresponde a los arts. 99 inc. 7, 100 y 101.)
 
-Decimotercera. A partir de los trescientos sesenta días de la vigencia de esta reforma los magistrados inferiores solamente podrán ser designados por el procedimiento previsto en la presente Constitución. Hasta tanto se aplicará el sistema vigente con anterioridad.
+### Decimotercera
+A partir de los trescientos sesenta días de la vigencia de esta reforma los magistrados inferiores solamente podrán ser designados por el procedimiento previsto en la presente Constitución. Hasta tanto se aplicará el sistema vigente con anterioridad.
 
 (Corresponde al Artículo 114)
 
-Decimocuarta. Las causas en trámite ante la Cámara de Diputados al momento de instalarse el Consejo de la Magistratura, les serán remitidas a efectos del inc. 5 del Artículo 114. Las ingresadas en el Senado continuarán allí hasta su terminación.
+### Decimocuarta
+Las causas en trámite ante la Cámara de Diputados al momento de instalarse el Consejo de la Magistratura, les serán remitidas a efectos del inc. 5 del Artículo 114. Las ingresadas en el Senado continuarán allí hasta su terminación.
 
 (Corresponde al Artículo 115)
 
-Decimoquinta. Hasta tanto se constituyan los poderes que surjan del nuevo régimen de autonomía de la ciudad de Buenos Aires, el Congreso ejercerá una legislación exclusiva sobre su territorio, en los mismos términos que hasta la sanción de la presente.
+### Decimoquinta
+Hasta tanto se constituyan los poderes que surjan del nuevo régimen de autonomía de la ciudad de Buenos Aires, el Congreso ejercerá una legislación exclusiva sobre su territorio, en los mismos términos que hasta la sanción de la presente.
 
 El jefe de Gobierno será elegido durante el año mil novecientos noventa y cinco.
 
@@ -849,23 +790,12 @@ Hasta tanto se haya dictado el estatuto organizativo la designación y remoción
 
 (Corresponde al Artículo 129)
 
-Decimosexta. Esta reforma entra en vigencia al día siguiente de su publicación. Los miembros de la Convención Constituyente, el presidente de la Nación Argentina, los presidentes de las Cámaras Legislativas y el presidente de la Corte Suprema de Justicia prestan juramento en un mismo acto el día 24 de agosto de 1994, en el Palacio San José, Concepción del Uruguay, provincia de Entre Ríos.
+### Decimosexta
+Esta reforma entra en vigencia al día siguiente de su publicación. Los miembros de la Convención Constituyente, el presidente de la Nación Argentina, los presidentes de las Cámaras Legislativas y el presidente de la Corte Suprema de Justicia prestan juramento en un mismo acto el día 24 de agosto de 1994, en el Palacio San José, Concepción del Uruguay, provincia de Entre Ríos.
 
 Cada poder del Estado y las autoridades provinciales y municipales disponen lo necesario para que sus miembros y funcionarios juren esta Constitución
 
-Decimoséptima. El texto constitucional ordenado, sancionado por esta Convención Constituyente, reemplaza al hasta ahora vigente.
+### Decimoséptima
+El texto constitucional ordenado, sancionado por esta Convención Constituyente, reemplaza al hasta ahora vigente.
 
-DADA EN LA SALA DE SESIONES DE LA CONVENCIÓN NACIONAL CONSTITUYENTE, EN LA CIUDAD DE SANTA FE, A LOS VEINTIDÓS DÍAS DEL MES DE AGOSTO DEL AÑO MIL NOVECIENTOS NOVENTA Y CUATRO.
-
-ARTICULO 2º
-El texto transcripto en el Artículo 1º de la presente ley incluye todas las disposiciones constitucionales sancionadas por la Convención Nacional Constituyente reunida en las ciudades de Santa Fe y Paraná en el año 1994, comprendiendo como Artículo 77, segunda parte, la aprobada en la sesión del primero de agosto de 1994 que expresa:
-
-"Los proyectos de ley que modifiquen el régimen electoral y de partidos políticos deberán ser aprobados por mayoría absoluta del total de los miembros de las Cámaras".
-
-ARTICULO 3º
-Publíquese en el Boletín Oficial.
-
-ARTICULO 4º
-Comuníquese al Poder Ejecutivo
-
-DADA EN LA SALA DE SESIONES DEL CONGRESO ARGENTINO, EN BUENOS AIRES, A LOS QUINCE DIAS DEL MES DE DICIEMBRE DEL AÑO MIL NOVECIENTOS NOVENTA Y CUATRO.
+*Dada en la sala de sesiones de la convención nacional constituyente, en la ciudad de Santa Fe, a los veintidós días del mes de agosto del año mil novecientos noventa y cuatro.*
