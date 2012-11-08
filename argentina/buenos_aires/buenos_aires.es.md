@@ -1,6 +1,6 @@
 # Constitución de la Provincia de Buenos Aires
 
-[Fuente: http://www.gob.gba.gov.ar/legislacion/constitucion/cpppal.htm]
+[Fuente: [Gobierno de Buenos Aires](http://www.gob.gba.gov.ar/legislacion/constitucion/cpppal.htm)]
 
 *(Nota editorial: Este es el texto original en español, es el texto exacto de la fuente vinculada, con sólo cambios de formato.)*
 
