@@ -15,7 +15,7 @@ changed_files.each do |file|
   unless markdown_match.nil?
     puts "Change detected in #{file}..."
     
-    dir = components.first
+    dir = components[0..components.count-2].join('/')
     base_name = filename[0..markdown_match - 1]
 
     # create pdf version of the markdown
