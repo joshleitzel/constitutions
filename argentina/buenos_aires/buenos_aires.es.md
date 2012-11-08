@@ -281,8 +281,8 @@ Las declaraciones, derechos y garantías enumerados en esta Constitución, no se
 ## Artículo 57
 Toda ley, decreto u orden contrarios a los artículos precedentes o que impongan al ejercicio de las libertades y derechos reconocidos en ellos, otras restricciones que las que los mismos artículos permiten, o priven a los ciudadanos de las garantías que aseguran, serán inconstitucionales y no podrán ser aplicados por los jueces. Los individuos que sufran los efectos de toda orden que viole o menoscabe estos derechos, libertades y garantías, tienen acción civil para pedir las indemnizaciones por los perjuicios que tal violación o menoscabo les cause, contra el empleado o funcionario que la haya autorizado o ejecutado.
 
-# SECCIÓN II: Régimen Electoral
-# CAPÍTULO ÚNICO: Disposiciones generales
+# Sección II: Régimen Electoral
+# Capítulo Único: Disposiciones generales
 ## Artículo 58
 La representación política tiene por base la población y con arreglo a ella se ejercerá el derecho electoral.
 
@@ -342,8 +342,8 @@ Toda elección deberá terminarse en un solo día, sin que las autoridades pueda
 ## Artículo 66
 Los electores encargados de recibir los sufragios, tendrán a su cargo el orden inmediato en el comicio durante el ejercicio de sus funciones y para conservarlo o restablecerlo, podrán requerir el auxilio de la fuerza pública.
 
-# SECCIÓN III
-# CAPÍTULO ÚNICO
+# Sección III
+# Capítulo Único
 ## Artículo 67.-
 Los electores tienen el derecho de iniciativa para la presentación de proyectos de ley, con excepción de los referidos a reforma constitucional, aprobación de tratados y convenios, presupuesto, recursos, creación de municipios y de órganos jurisdiccionales, debiendo la Legislatura darle expreso tratamiento dentro del término de doce meses. La ley determinará las condiciones, requisitos y porcentaje de electores que deberán suscribir la iniciativa.
 
@@ -355,12 +355,12 @@ La ley reglamentaria establecerá las condiciones, requisitos, materias y proced
 
 La Legislatura por dos tercios de votos del total de los miembros de cada Cámara, podrá establecer otras formas de participación popular.
 
-# SECCIÓN IV: Poder Legislativo
-# CAPÍTULO I: De la Legislatura
+# Sección IV: Poder Legislativo
+# Capítulo I: De la Legislatura
 ## Artículo 68
 El Poder Legislativo de la Provincia será ejercido por dos Cámaras, una de diputados y otra de senadores, elegidos directamente por los electores, con arreglo a las prescripciones de esta Constitución y a la ley de la materia.
 
-# CAPÍTULO II: De la Cámara de Diputados
+# Capítulo II: De la Cámara de Diputados
 ## Artículo 69
 Esta Cámara se compondrá de ochenta y cuatro diputados. La Legislatura, por dos tercios de votos del total de los miembros de cada Cámara, podrá elevar esta cantidad hasta cien como máximo. Se determinará con arreglo a cada censo nacional o provincial, debidamente aprobado, el número de habitantes que ha de representar cada diputado.
 
@@ -393,7 +393,7 @@ Cualquier habitante de la Provincia tiene acción para denunciar ante la Cámara
 ## Artículo 74
 Cuando se deduzca acusación por delitos comunes contra los funcionarios acusables por la Cámara de Diputados, no podrá procederse contra sus personas, sin que previamente el tribunal competente solicite el juicio político y la Legislatura haga lugar a la acusación y al allanamiento de la inmunidad del acusado.
 
-# CAPÍTULO III: Del Senado
+# Capítulo III: Del Senado
 ## Artículo 75
 Esta Cámara se compondrá de cuarenta y dos senadores. La Legislatura, por dos tercios de votos del total de los miembros de cada Cámara, podrá elevar esta cantidad hasta cincuenta, como máximo, estableciendo el número de habitantes que ha de representar cada senador, de acuerdo con lo prescripto en el artículo 69.
 
@@ -426,7 +426,7 @@ El que fuese condenado en esta forma queda, sin embargo, sujeto a acusación y j
 ## Artículo 82
 Presta su acuerdo a los nombramientos que debe hacer el Poder Ejecutivo con este requisito y le presenta una terna alternativa para el nombramiento de tesorero y subtesorero, contador y subcontador de la Provincia.
 
-# CAPÍTULO IV: Disposiciones comunes a ambas Cámaras
+# Capítulo IV: Disposiciones comunes a ambas Cámaras
 ## Artículo 83
 Las elecciones para diputados y senadores tendrán lugar cada dos años, en la fecha que la ley establezca.
 
@@ -493,7 +493,7 @@ Al aceptar el cargo los diputados y senadores, jurarán por Dios y por la Patria
 ## Artículo 102
 Los senadores y diputados gozarán de una remuneración determinada por la Legislatura.
 
-# CAPÍTULO V: Atribuciones del Poder Legislativo
+# Capítulo V: Atribuciones del Poder Legislativo
 ## Artículo 103
 Corresponde al Poder Legislativo:
 
@@ -529,7 +529,7 @@ Organizar la carrera administrativa con las siguientes bases: acceso por idoneid
 
 Dictar todas aquellas leyes necesarias para el mejor desempeño de las anteriores atribuciones y para todo asunto de interés público y general de la Provincia, cuya naturaleza y objeto no corresponda privativamente a los poderes nacionales.
 
-# CAPÍTULO VI: Procedimiento para la formación de las leyes
+# Capítulo VI: Procedimiento para la formación de las leyes
 ## Artículo 104
 Toda ley puede tener principio en cualquiera de las Cámaras y se propondrá en forma de proyecto por cualquiera de los miembros de cada Cámara y también por el Poder Ejecutivo. Toda ley especial que autorice gastos, necesitará para su aprobación, el voto de los dos tercios de los miembros presentes de cada Cámara.
 
@@ -567,7 +567,7 @@ En la sanción de las leyes se usará la siguiente fórmula:
 
 "El Senado y Cámara de Diputados de la Provincia de Buenos Aires, sancionan con fuerza de ley, etcétera."
 
-## CAPÍTULO VII: De la Asamblea Legislativa
+## Capítulo VII: De la Asamblea Legislativa
 ## Artículo 113
 Ambas Cámaras sólo se reunirán para el desempeño de las funciones siguientes:
 
@@ -598,8 +598,8 @@ Las reuniones de la Asamblea General serán presididas por el vicegobernador, en
 ## Artículo 118
 No podrá funcionar la Asamblea sin la mayoría absoluta de los miembros de cada Cámara.
 
-# SECCIÓN V: Poder Ejecutivo
-# CAPÍTULO I: De su naturaleza y duración
+# Sección V: Poder Ejecutivo
+# Capítulo I: De su naturaleza y duración
 ## Artículo 119
 El Poder Ejecutivo de la Provincia será desempeñado por un ciudadano con el título de gobernador de la provincia de Buenos Aires.
 
@@ -659,7 +659,7 @@ Al tomar posesión del cargo, el gobernador y el vicegobernador prestarán juram
 ## Articulo 133
 El gobernador y el vicegobernador gozan del sueldo que la ley determine, no pudiendo ser alterado en el período de sus nombramientos. Durante éste no podrán ejercer otro empleo ni recibir otro emolumento de la Nación o de la Provincia.
 
-# CAPÍTULO II: Elección de gobernador y vicegobernador
+# Capítulo II: Elección de gobernador y vicegobernador
 ## Articulo 134
 La elección de gobernador y vicegobernador será hecha directamente por el pueblo, por simple mayoría de votos; cada elector votará el nombre de un ciudadano para gobernador y el de otro ciudadano para vicegobernador.
 
@@ -692,7 +692,7 @@ Aceptadas que sean las renuncias del gobernador y vicegobernador electos, se reu
 ## Artículo 143
 Una vez aceptado el cargo, el gobernador y vicegobernador electos gozarán de las mismas inmunidades personales de los senadores y diputados.
 
-# CAPÍTULO III: Atribuciones del Poder Ejecutivo
+# Capítulo III: Atribuciones del Poder Ejecutivo
 ## Artículo 144
 El gobernador es el jefe de la Administración de la Provincia, y tiene las siguientes atribuciones:
 
@@ -753,7 +753,7 @@ Estando las Cámaras reunidas, la propuesta de funcionarios que requieren para s
 
 Ninguno de los funcionarios para cuyo nombramiento se requiere el acuerdo o propuesta por terna de alguna de las Cámaras, podrá ser removido sin el mismo requisito. Exceptúanse los funcionarios para cuya remoción esta Constitución establece un procedimiento especial.
 
-# CAPÍTULO IV: De los ministros secretarios del despacho general
+# Capítulo IV: De los ministros secretarios del despacho general
 ## Artículo 147
 El despacho de los negocios administrativos de la Provincia estará a cargo de dos o más ministros secretarios, y una ley especial deslindará los ramos y las funciones adscriptas al despacho de cada uno de los ministerios.
 
@@ -777,11 +777,11 @@ Los ministros pueden concurrir a las sesiones de las Cámaras y tomar parte en l
 ## Artículo 153
 Gozarán por sus servicios de un sueldo establecido por la ley, que no podrá ser aumentado ni disminuido en favor o en perjuicio de los que se hallen en ejercicio.
 
-# CAPÍTULO V: Responsabilidad del gobernador y de los ministros
+# Capítulo V: Responsabilidad del gobernador y de los ministros
 ## Artículo 154
 El gobernador y los ministros son responsables y pueden ser acusados ante el Senado, en la forma establecida en la sección del "Poder Legislativo", por las causas que determina el inciso 2 del artículo 73 de esta Constitución y por abuso de su posición oficial para realizar especulaciones de comercio.
 
-# CAPÍTULO VI: Del fiscal de Estado, contador y tesorero de la Provincia
+# Capítulo VI: Del fiscal de Estado, contador y tesorero de la Provincia
 ## Artículo 155
 Habrá un fiscal de Estado inamovible, encargado de defender el patrimonio del Fisco, que será parte legítima en los juicios contencioso administrativos y en todos aquéllos en que se controviertan intereses del Estado.
 
@@ -798,7 +798,7 @@ El contador y subcontador no podrán autorizar pago alguno que no sea arreglado 
 ## Artículo 158
 El tesorero no podrá ejecutar pagos que no hayan sido previamente autorizados por el contador.
 
-# CAPÍTULO VII: Del Tribunal de Cuentas
+# Capítulo VII: Del Tribunal de Cuentas
 ## Artículo 159
 La Legislatura dictará la ley orgánica del Tribunal de Cuentas. Éste se compondrá de un presidente abogado y cuatro vocales contadores públicos, todos inamovibles, nombrados por el Poder Ejecutivo con acuerdo del Senado. Podrán ser enjuiciados y removidos en la misma forma y en los mismos casos que los jueces de las Cámaras de Apelación.
 
@@ -810,12 +810,12 @@ Inspeccionar las oficinas provinciales o municipales que administren fondos púb
 
 Las acciones para la ejecución de las resoluciones del tribunal corresponderán al fiscal de Estado.
 
-# SECCIÓN VI: Poder Judicial
-# CAPÍTULO I
+# Sección VI: Poder Judicial
+# Capítulo I
 ## Artículo 160
 El Poder Judicial será desempeñado por una Suprema Corte de Justicia, Cámaras de Apelación, jueces y demás tribunales que la ley establezca.
 
-# CAPÍTULO II: Atribuciones de la Suprema Corte de Justicia
+# Capítulo II: Atribuciones de la Suprema Corte de Justicia
 ## Artículo 161
 La Suprema Corte de Justicia tiene las siguientes atribuciones:
 
@@ -845,7 +845,7 @@ La Suprema Corte de Justicia hará su reglamento y podrá establecer las medidas
 ## Artículo 165
 Debe pasar anualmente a la Legislatura una memoria o informe sobre el estado en que se halla dicha administración, a cuyo efecto puede pedir a los demás tribunales de la Provincia los datos que crea convenientes y proponer en forma de proyecto las reformas de procedimiento y organización que sean compatibles con lo estatuido en esta Constitución y tiendan a mejorarla.
 
-# CAPÍTULO III: Administración de Justicia
+# Capítulo III: Administración de Justicia
 ## Artículo 166
 La Legislatura establecerá tribunales de justicia determinando los límites de su competencia territorial, los fueros, las materias y, en su caso, la cuantía. Organizará la Policía Judicial.
 
@@ -874,7 +874,7 @@ Queda establecida ante todos los tribunales de la Provincia la libre defensa en 
 ## Artículo 171
 Las sentencias que pronuncien los jueces y tribunales letrados, serán fundadas en el texto expreso de la ley; y a falta de éste, en los principios jurídicos de la legislación vigente en la materia respectiva, y en defecto de éstos, en los principios generales del derecho, teniendo en consideración las circunstancias del caso.
 
-# CAPÍTULO IV: Justicia de Paz
+# Capítulo IV: Justicia de Paz
 ## Artículo 172
 La Legislatura establecerá juzgados de Paz en todos los partidos de la Provincia que no sean cabecera de departamento judicial, pudiendo incrementar su número conforme al grado de litigiosidad, la extensión territorial y la población respectiva. Serán competentes, además de las materias que les fije la ley, en faltas provinciales, en causas de menor cuantía y vecinales.
 
@@ -888,7 +888,7 @@ Conservarán sus cargos mientras dure su buena conducta y su responsabilidad se 
 ## Artículo 174
 La ley establecerá, para las causas de menor cuantía y vecinales, un procedimiento predominantemente oral que garantice la inmediatez, informalidad, celeridad, accesibilidad y economía procesal. Se procurará, con preferencia, la conciliación.
 
-# CAPÍTULO V: Elección, duración y responsabilidad de los miembros del Poder Judicial
+# Capítulo V: Elección, duración y responsabilidad de los miembros del Poder Judicial
 ## Artículo 175
 Los jueces de la Suprema Corte de Justicia, el procurador y el subprocurador general, serán designados por el Poder Ejecutivo, con acuerdo del Senado, otorgado en sesión pública por mayoría absoluta de sus miembros.
 
@@ -948,8 +948,8 @@ La ley determinará el modo y forma como deben ser nombrados y removidos y la du
 ## Artículo 189
 El Ministerio Público será desempeñado por el procurador y subprocurador general de la Suprema Corte de Justicia; por los fiscales de Cámaras, quienes deberán reunir las condiciones requeridas para ser jueces de las Cámaras de Apelación; por agentes fiscales, asesores de menores y defensores de pobres y ausentes, quienes deberán reunir las condiciones requeridas para ser jueces de primera instancia. El procurador general ejercerá superintendencia sobre los demás miembros del Ministerio Público.
 
-# SECCIÓN VII: Del Régimen Municipal
-# CAPÍTULO ÚNICO
+# Sección VII: Del Régimen Municipal
+# Capítulo Único
 ## Artículo 190
 La administración de los intereses y servicios locales en la Capital y cada uno de los partidos que formen la Provincia, estará a cargo de una Municipalidad, compuesta de un departamento ejecutivo unipersonal y un departamento deliberativo, cuyos miembros, que no podrán ser menos de seis ni más de veinticuatro, durarán cuatro años en sus funciones, renovándose cada dos años por mitad y serán elegidos en el mismo acto que se elijan los senadores y diputados, en la forma que determine la ley.
 
@@ -1002,8 +1002,8 @@ Los conflictos internos de las municipalidades, sea que se produzcan entre los d
 ## Artículo 197
 En caso de acefalía de una municipalidad, el Poder Ejecutivo convocará inmediatamente a elecciones para constituirla.
 
-# SECCIÓN VIII
-# CAPÍTULO I: Cultura y Educación
+# Sección VIII
+# Capítulo I: Cultura y Educación
 ## Artículo 198
 La cultura y la educación constituyen derechos humanos fundamentales. Toda persona tiene derecho a la educación y a tomar parte, libremente, en la vida cultural de la comunidad.
 
@@ -1011,7 +1011,7 @@ La Provincia reconoce a la familia como agente educador y socializador primario.
 
 La educación es responsabilidad indelegable de la Provincia, la cual coordinará institucionalmente el sistema educativo y proveerá los servicios correspondientes, asegurando el libre acceso, permanencia y egreso a la educación en igualdad de oportunidades y posibilidades.
 
-# CAPÍTULO II: Educación
+# Capítulo II: Educación
 ## Artículo 199
 La educación tendrá por objeto la formación integral de la persona con dimensión trascendente y el respeto a los derechos humanos y libertades fundamentales, formando el carácter de los niños en el culto de las instituciones patrias, en el respeto a los símbolos nacionales y en los principios de la moral cristiana, respetando la libertad de conciencia.
 
@@ -1028,7 +1028,7 @@ El sistema educativo garantizará una calidad educativa equitativa que enfatice 
 
 El servicio educativo podrá ser prestado por otros sujetos, privados o públicos no estatales, dentro del sistema educativo provincial y bajo control estatal.
 
-# CAPÍTULO III: Gobierno y Administración
+# Capítulo III: Gobierno y Administración
 ## Artículo 201
 El gobierno y la administración del sistema cultural y educativo provincial, estarán a cargo de una Dirección General de Cultura y Educación, autárquica y con idéntico rango al establecido en el artículo 147.
 
@@ -1053,7 +1053,7 @@ El presupuesto de gastos dispondrá los recursos necesarios para la prestación 
 
 Los recursos que conformen dicho fondo, ingresarán directamente al mismo y serán administrados por la Dirección General de Cultura y Educación.
 
-# CAPÍTULO IV: Educación Universitaria
+# Capítulo IV: Educación Universitaria
 ## Artículo 205
 Las leyes orgánicas y reglamentarias de la educación universitaria, se ajustarán a las reglas siguientes:
 
@@ -1069,8 +1069,8 @@ Corresponderá al Consejo Universitario: dictar los reglamentos que exijan el or
 
 Corresponderá a las Facultades: la elección de su decano y secretario; el nombramiento de profesores titulares o interinos; la dirección de la enseñanza, formación de los programas y la recepción de exámenes y pruebas en sus respectivos ramos científicos; fijar las condiciones de admisibilidad de los alumnos; administrar los fondos que les corresponden, rindiendo cuenta al Consejo; proponer a éste los presupuestos anuales, y toda medida conducente a la mejora de los estudios o régimen interno de las Facultades.
 
-# SECCIÓN IX: De la reforma de la Constitución
-# CAPÍTULO ÚNICO
+# Sección IX: De la reforma de la Constitución
+# Capítulo Único
 ## Artículo 206
 Esta Constitución sólo podrá ser reformada por el siguiente procedimiento:
 
@@ -1087,7 +1087,7 @@ La convención será formada por ciudadanos que reúnan las condiciones necesari
 ## Artículo 209
 Las enmiendas aprobadas en plebiscito y las sanciones de la convención reformadora, serán promulgadas y publicadas como parte integrante de la Constitución.
 
-# SECCIÓN X: Disposiciones Transitorias
+# Sección X: Disposiciones Transitorias
 ## Artículo 210
 Los institutos de forma de democracia semidirecta establecidos en esta Constitución serán reglamentados en un plazo que no exceda el próximo período legislativo. (Corresponde al artículo 67).
 
