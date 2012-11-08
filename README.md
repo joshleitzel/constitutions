@@ -25,8 +25,11 @@ If you would like to help this project along, just: (1) fork the repo; (2) run `
 * Angola
   * Portuguese (original): [Markdown](https://github.com/joshleitzel/constitutions/blob/master/angola/angola.pt.md); [PDF](https://github.com/joshleitzel/constitutions/blob/master/angola/angola.pt.pdf?raw=true)
 * Argentina
-  * Spanish (original): [Markdown](https://github.com/joshleitzel/constitutions/blob/master/argentina/argentina.es.md); [PDF](https://github.com/joshleitzel/constitutions/blob/master/argentina/argentina.es.pdf?raw=true)
-  * English: [Markdown](https://github.com/joshleitzel/constitutions/blob/master/argentina/argentina.en.md); [PDF](https://github.com/joshleitzel/constitutions/blob/master/argentina/argentina.en.pdf?raw=true)
+  * Federal
+    * Spanish (original): [Markdown](https://github.com/joshleitzel/constitutions/blob/master/argentina/federal.es.md); [PDF](https://github.com/joshleitzel/constitutions/blob/master/argentina/federal.es.pdf?raw=true)
+    * English: [Markdown](https://github.com/joshleitzel/constitutions/blob/master/argentina/federal.en.md); [PDF](https://github.com/joshleitzel/constitutions/blob/master/argentina/federal.en.pdf?raw=true)
+  * Province of Buenos Aires
+    * Spanish (original): [Markdown](https://github.com/joshleitzel/constitutions/blob/master/argentina/buenos_aires.es.md); [PDF](https://github.com/joshleitzel/constitutions/blob/master/argentina/buenos_aires.es.pdf?raw=true)
 * Armenia
 * Australia
 * Austria
