@@ -31,6 +31,10 @@ If you would like to help this project along, just: (1) fork the repo; (2) run `
   * Province of Buenos Aires
      * Spanish (original): [Markdown](https://github.com/joshleitzel/constitutions/blob/master/argentina/buenos_aires.es.md); [PDF](https://github.com/joshleitzel/constitutions/blob/master/argentina/buenos_aires.es.pdf?raw=true)
 * Armenia
+  * 2005 (With Amendments)
+      * English: [Markdown](https://github.com/joshleitzel/constitutions/blob/master/armenia/armenia_2005.en.md); [PDF](https://github.com/joshleitzel/constitutions/blob/master/armenia/armenia_2005.en.pdf?raw=true)
+  * 1995
+      * English: [Markdown](https://github.com/joshleitzel/constitutions/blob/master/armenia/armenia_1995.en.md); [PDF](https://github.com/joshleitzel/constitutions/blob/master/armenia/armenia_1995.en.pdf?raw=true)
 * Australia
 * Austria
 * Azerbaijan
