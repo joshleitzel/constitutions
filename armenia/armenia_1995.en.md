@@ -1,6 +1,6 @@
 # Constitution of the Republic of Armenia
 
-[Source: [National Assembly of the Republic of Armenia](http://parliament.am/parliament.php?id=constitution&lang=eng)]
+[Source: [National Assembly of the Republic of Armenia](http://www.parliament.am/legislation.php?sel=show&ID=2425&lang=eng]
 
 *(Editorial note: This is the translated English text; it is the exact text of the linked source, with only formatting changes.)*
 
